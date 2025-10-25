@@ -1,0 +1,323 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Treecko Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0252Un"
+  },
+  {
+    "name": "Torchic Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0255Un"
+  },
+  {
+    "name": "Mudkip Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0258Un"
+  },
+  {
+    "name": "Poochyena Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0261Un"
+  },
+  {
+    "name": "Zigzagoon Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0263Un"
+  },
+  {
+    "name": "Wurmple Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0265Un"
+  },
+  {
+    "name": "Lotad Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0270Un"
+  },
+  {
+    "name": "Seedot Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0273Un"
+  },
+  {
+    "name": "Taillow Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0276Un"
+  },
+  {
+    "name": "Wingull Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0278Un"
+  },
+  {
+    "name": "Ralts Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0280Un"
+  },
+  {
+    "name": "Surskit Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0283Un"
+  },
+  {
+    "name": "Shroomish Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0285Un"
+  },
+  {
+    "name": "Slakoth Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0287Un"
+  },
+  {
+    "name": "Nincada Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0290Un"
+  },
+  {
+    "name": "Whismur Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0293Un"
+  },
+  {
+    "name": "Makuhita Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0296Un"
+  },
+  {
+    "name": "Nosepass Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0299Un"
+  },
+  {
+    "name": "Skitty Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0300Un"
+  },
+  {
+    "name": "Sableye Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0302Un"
+  },
+  {
+    "name": "Mawile Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0303Un"
+  },
+  {
+    "name": "Aron Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0304Un"
+  },
+  {
+    "name": "Meditite Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0307Un"
+  },
+  {
+    "name": "Electrike Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0309Un"
+  },
+  {
+    "name": "Plusle Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0311Un"
+  },
+  {
+    "name": "Minun Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0312Un"
+  },
+  {
+    "name": "Volbeat Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0313Un"
+  },
+  {
+    "name": "Illumise Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0314Un"
+  },
+  {
+    "name": "Roselia Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0315Un"
+  },
+  {
+    "name": "Gulpin Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0316Un"
+  },
+  {
+    "name": "Carvanha Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0318Un"
+  },
+  {
+    "name": "Wailmer Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0320Un"
+  },
+  {
+    "name": "Numel Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0322Un"
+  },
+  {
+    "name": "Torkoal Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0324Un"
+  },
+  {
+    "name": "Spoink Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0325Un"
+  },
+  {
+    "name": "Spinda Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0327Un"
+  },
+  {
+    "name": "Trapinch Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0328Un"
+  },
+  {
+    "name": "Cacnea Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0331Un"
+  },
+  {
+    "name": "Swablu Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0333Un"
+  },
+  {
+    "name": "Zangoose Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0335Un"
+  },
+  {
+    "name": "Seviper Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0336Un"
+  },
+  {
+    "name": "Lunatone Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0337Un"
+  },
+  {
+    "name": "Solrock Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0338Un"
+  },
+  {
+    "name": "Barboach Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0339Un"
+  },
+  {
+    "name": "Corphish Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0341Un"
+  },
+  {
+    "name": "Baltoy Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0343Un"
+  },
+  {
+    "name": "Lileep Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0345Un"
+  },
+  {
+    "name": "Anorith Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0347Un"
+  },
+  {
+    "name": "Feebas Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0349Un"
+  },
+  {
+    "name": "Castform Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0351Un"
+  },
+  {
+    "name": "Kecleon Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0352Un"
+  },
+  {
+    "name": "Shuppet Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0353Un"
+  },
+  {
+    "name": "Duskull Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0355Un"
+  },
+  {
+    "name": "Tropius Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0357Un"
+  },
+  {
+    "name": "Chimecho Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0358Un"
+  },
+  {
+    "name": "Absol Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0359Un"
+  },
+  {
+    "name": "Snorunt Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0361Un"
+  },
+  {
+    "name": "Spheal Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0363Un"
+  },
+  {
+    "name": "Clamperl Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0366Un"
+  },
+  {
+    "name": "Relicanth Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0369Un"
+  },
+  {
+    "name": "Luvdisc Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0370Un"
+  },
+  {
+    "name": "Bagon Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0371Un"
+  },
+  {
+    "name": "Beldum Line Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,0374Un"
+  },
+  {
+    "name": "Hoenn Legendaries Unlock",
+    "type": "toggle",
+    "codes": "HoennUnlocks,HoennLegUn"
+  }
+]

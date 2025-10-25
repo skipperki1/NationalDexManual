@@ -1,0 +1,163 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Turtwig Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0387Un"
+  },
+  {
+    "name": "Chimchar Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0390Un"
+  },
+  {
+    "name": "Piplup Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0393Un"
+  },
+  {
+    "name": "Starly Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0396Un"
+  },
+  {
+    "name": "Bidoof Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0399Un"
+  },
+  {
+    "name": "Kricketot Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0401Un"
+  },
+  {
+    "name": "Shinx Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0403Un"
+  },
+  {
+    "name": "Cranidos Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0408Un"
+  },
+  {
+    "name": "Shieldon Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0410Un"
+  },
+  {
+    "name": "Burmy Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0412Un"
+  },
+  {
+    "name": "Combee Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0415Un"
+  },
+  {
+    "name": "Pachirisu Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0417Un"
+  },
+  {
+    "name": "Buizel Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0418Un"
+  },
+  {
+    "name": "Cherubi Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0420Un"
+  },
+  {
+    "name": "Shellos Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0422Un"
+  },
+  {
+    "name": "Drifloon Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0425Un"
+  },
+  {
+    "name": "Buneary Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0427Un"
+  },
+  {
+    "name": "Glameow Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0431Un"
+  },
+  {
+    "name": "Stunky Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0434Un"
+  },
+  {
+    "name": "Bronzor Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0436Un"
+  },
+  {
+    "name": "Chatot Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0441Un"
+  },
+  {
+    "name": "Spiritomb Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0442Un"
+  },
+  {
+    "name": "Gible Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0443Un"
+  },
+  {
+    "name": "Riolu Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0447Un"
+  },
+  {
+    "name": "Hippopotas Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0449Un"
+  },
+  {
+    "name": "Skorupi Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0451Un"
+  },
+  {
+    "name": "Croagunk Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0453Un"
+  },
+  {
+    "name": "Carnivine Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0455Un"
+  },
+  {
+    "name": "Finneon Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0456Un"
+  },
+  {
+    "name": "Snover Line Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0459Un"
+  },
+  {
+    "name": "Rotom Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,0479Un"
+  },
+  {
+    "name": "Sinnoh Legendaries Unlock",
+    "type": "toggle",
+    "codes": "SinnohUnlocks,SinnohLegUn"
+  }
+]

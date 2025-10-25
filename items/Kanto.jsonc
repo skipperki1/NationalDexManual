@@ -1,0 +1,368 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Bulbasaur Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0001Un"
+  },
+  {
+    "name": "Charmander Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0004Un"
+  },
+  {
+    "name": "Squirtle Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0007Un"
+  },
+  {
+    "name": "Caterpie Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0010Un"
+  },
+  {
+    "name": "Weedle Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0013Un"
+  },
+  {
+    "name": "Pidgey Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0016Un"
+  },
+  {
+    "name": "Rattata Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0019Un"
+  },
+  {
+    "name": "Spearow Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0021Un"
+  },
+  {
+    "name": "Ekans Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0023Un"
+  },
+  {
+    "name": "Pikachu Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0025Un"
+  },
+  {
+    "name": "Sandshrew Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0027Un"
+  },
+  {
+    "name": "NidoranF Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0029Un"
+  },
+  {
+    "name": "NidoranM Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0032Un"
+  },
+  {
+    "name": "Clefairy Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0035Un"
+  },
+  {
+    "name": "Vulpix Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0037Un"
+  },
+  {
+    "name": "Jigglypuff Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0039Un"
+  },
+  {
+    "name": "Zubat Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0041Un"
+  },
+  {
+    "name": "Oddish Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0043Un"
+  },
+  {
+    "name": "Paras Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0046Un"
+  },
+  {
+    "name": "Venonat Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0048Un"
+  },
+  {
+    "name": "Diglett Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0050Un"
+  },
+  {
+    "name": "Meowth Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0052Un"
+  },
+  {
+    "name": "Psyduck Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0054Un"
+  },
+  {
+    "name": "Mankey Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0056Un"
+  },
+  {
+    "name": "Growlithe Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0058Un"
+  },
+  {
+    "name": "Poliwag Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0060Un"
+  },
+  {
+    "name": "Abra Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0063Un"
+  },
+  {
+    "name": "Machop Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0066Un"
+  },
+  {
+    "name": "Bellsprout Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0069Un"
+  },
+  {
+    "name": "Tentacool Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0072Un"
+  },
+  {
+    "name": "Geodude Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0074Un"
+  },
+  {
+    "name": "Ponyta Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0077Un"
+  },
+  {
+    "name": "Slowpoke Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0079Un"
+  },
+  {
+    "name": "Magnemite Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0081Un"
+  },
+  {
+    "name": "Farfetch'd Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0083Un"
+  },
+  {
+    "name": "Doduo Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0084Un"
+  },
+  {
+    "name": "Seel Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0086Un"
+  },
+  {
+    "name": "Grimer Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0088Un"
+  },
+  {
+    "name": "Shellder Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0090Un"
+  },
+  {
+    "name": "Gastly Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0092Un"
+  },
+  {
+    "name": "Onix Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0095Un"
+  },
+  {
+    "name": "Drowzee Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0096Un"
+  },
+  {
+    "name": "Krabby Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0098Un"
+  },
+  {
+    "name": "Voltorb Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0100Un"
+  },
+  {
+    "name": "Exeggcute Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0102Un"
+  },
+  {
+    "name": "Cubone Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0104Un"
+  },
+  {
+    "name": "Lickitung Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0108Un"
+  },
+  {
+    "name": "Koffing Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0109Un"
+  },
+  {
+    "name": "Rhyhorn Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0111Un"
+  },
+  {
+    "name": "Chansey Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0113Un"
+  },
+  {
+    "name": "Tangela Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0114Un"
+  },
+  {
+    "name": "Kangaskhan Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0115Un"
+  },
+  {
+    "name": "Horsea Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0116Un"
+  },
+  {
+    "name": "Goldeen Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0118Un"
+  },
+  {
+    "name": "Staryu Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0120Un"
+  },
+  {
+    "name": "Mr. Mime Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0122Un"
+  },
+  {
+    "name": "Scyther Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0123Un"
+  },
+  {
+    "name": "Jynx Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0124Un"
+  },
+  {
+    "name": "Electabuzz Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0125Un"
+  },
+  {
+    "name": "Magmar Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0126Un"
+  },
+  {
+    "name": "Pinsir Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0127Un"
+  },
+  {
+    "name": "Tauros Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0128Un"
+  },
+  {
+    "name": "Magikarp Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0129Un"
+  },
+  {
+    "name": "Lapras Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0131Un"
+  },
+  {
+    "name": "Ditto Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0132Un"
+  },
+  {
+    "name": "Eevee Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0133Un"
+  },
+  {
+    "name": "Porygon Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0137Un"
+  },
+  {
+    "name": "Omanyte Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0138Un"
+  },
+  {
+    "name": "Kabuto Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0140Un"
+  },
+  {
+    "name": "Aerodactyl Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0142Un"
+  },
+  {
+    "name": "Snorlax Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0143Un"
+  },
+  {
+    "name": "Dratini Line Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,0147Un"
+  },
+  {
+    "name": "Kanto Legendaries Unlock",
+    "type": "toggle",
+    "codes": "KantoUnlocks,KantoLegUn"
+  }
+]

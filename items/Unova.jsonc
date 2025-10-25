@@ -1,0 +1,353 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Snivy Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0495Un"
+  },
+  {
+    "name": "Tepig Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0498Un"
+  },
+  {
+    "name": "Oshawott Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0501Un"
+  },
+  {
+    "name": "Patrat Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0504Un"
+  },
+  {
+    "name": "Lillipup Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0506Un"
+  },
+  {
+    "name": "Purrloin Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0509Un"
+  },
+  {
+    "name": "Pansage Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0511Un"
+  },
+  {
+    "name": "Pansear Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0513Un"
+  },
+  {
+    "name": "Panpour Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0515Un"
+  },
+  {
+    "name": "Munna Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0517Un"
+  },
+  {
+    "name": "Pidove Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0519Un"
+  },
+  {
+    "name": "Blitzle Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0522Un"
+  },
+  {
+    "name": "Roggenrola Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0524Un"
+  },
+  {
+    "name": "Woobat Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0527Un"
+  },
+  {
+    "name": "Drillbur Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0529Un"
+  },
+  {
+    "name": "Audino Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0531Un"
+  },
+  {
+    "name": "Timburr Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0532Un"
+  },
+  {
+    "name": "Tympole Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0535Un"
+  },
+  {
+    "name": "Throh Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0538Un"
+  },
+  {
+    "name": "Sawk Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0539Un"
+  },
+  {
+    "name": "Sewaddle Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0540Un"
+  },
+  {
+    "name": "Venipede Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0543Un"
+  },
+  {
+    "name": "Cottonee Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0546Un"
+  },
+  {
+    "name": "Petilil Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0548Un"
+  },
+  {
+    "name": "Basculin Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0550Un"
+  },
+  {
+    "name": "Sandile Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0551Un"
+  },
+  {
+    "name": "Darumaka Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0554Un"
+  },
+  {
+    "name": "Maractus Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0556Un"
+  },
+  {
+    "name": "Dwebble Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0557Un"
+  },
+  {
+    "name": "Scraggy Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0559Un"
+  },
+  {
+    "name": "Silgilyph Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0561Un"
+  },
+  {
+    "name": "Yamask Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0562Un"
+  },
+  {
+    "name": "Tirtouga Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0564Un"
+  },
+  {
+    "name": "Archen Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0566Un"
+  },
+  {
+    "name": "Trubbish Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0568Un"
+  },
+  {
+    "name": "Zorua Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0570Un"
+  },
+  {
+    "name": "Minccino Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0572Un"
+  },
+  {
+    "name": "Gothita Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0574Un"
+  },
+  {
+    "name": "Solosis Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0577Un"
+  },
+  {
+    "name": "Ducklett Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0580Un"
+  },
+  {
+    "name": "Vanillite Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0582Un"
+  },
+  {
+    "name": "Deerling Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0585Un"
+  },
+  {
+    "name": "Emolga Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0587Un"
+  },
+  {
+    "name": "Karrablast Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0588Un"
+  },
+  {
+    "name": "Foongus Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0590Un"
+  },
+  {
+    "name": "Frillish Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0592Un"
+  },
+  {
+    "name": "Alomomola Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0594Un"
+  },
+  {
+    "name": "Joltik Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0595Un"
+  },
+  {
+    "name": "Ferroseed Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0597Un"
+  },
+  {
+    "name": "Klink Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0599Un"
+  },
+  {
+    "name": "Tynamo Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0602Un"
+  },
+  {
+    "name": "Elygem Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0605Un"
+  },
+  {
+    "name": "Litwick Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0607Un"
+  },
+  {
+    "name": "Axew Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0610Un"
+  },
+  {
+    "name": "Cubchoo Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0613Un"
+  },
+  {
+    "name": "Cryogonal Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0615Un"
+  },
+  {
+    "name": "Shelmet Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0616Un"
+  },
+  {
+    "name": "Stunfisk Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0618Un"
+  },
+  {
+    "name": "Mienfoo Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0619Un"
+  },
+  {
+    "name": "Druddigon Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0621Un"
+  },
+  {
+    "name": "Golett Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0622Un"
+  },
+  {
+    "name": "Pawniard Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0624Un"
+  },
+  {
+    "name": "Bouffalant Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0626Un"
+  },
+  {
+    "name": "Rufflet Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0627Un"
+  },
+  {
+    "name": "Vullaby Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0629Un"
+  },
+  {
+    "name": "Heatmor Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0631Un"
+  },
+  {
+    "name": "Durant Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0632Un"
+  },
+  {
+    "name": "Deino Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0633Un"
+  },
+  {
+    "name": "Larvesta Line Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,0636Un"
+  },
+  {
+    "name": "Unova Legendaries Unlock",
+    "type": "toggle",
+    "codes": "UnovaUnlocks,UnovaLegUn"
+  }
+]

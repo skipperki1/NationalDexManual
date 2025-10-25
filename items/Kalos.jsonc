@@ -1,0 +1,78 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Chespin Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0650Un"
+  },
+  {
+    "name": "Fennekin Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0653Un"
+  },
+  {
+    "name": "Froakie Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0656Un"
+  },
+  {
+    "name": "Bunnelby Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0659Un"
+  },
+  {
+    "name": "Fletchling Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0661Un"
+  },
+  {
+    "name": "Scatterbug Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0664Un"
+  },
+  {
+    "name": "Litleo Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0667Un"
+  },
+  {
+    "name": "Flabebe Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0669Un"
+  },
+  {
+    "name": "Skiddo Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0672Un"
+  },
+  {
+    "name": "Pancham Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0674Un"
+  },
+  {
+    "name": "Furfrou Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0676Un"
+  },
+  {
+    "name": "Espurr Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0677Un"
+  },
+  {
+    "name": "Honedge Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0679Un"
+  },
+  {
+    "name": "Spritzee Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0682Un"
+  },
+  {
+    "name": "Swirlix Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,06Un"
+  }
+]
