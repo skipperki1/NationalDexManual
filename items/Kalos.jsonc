@@ -74,5 +74,90 @@
     "name": "Swirlix Line Unlock",
     "type": "toggle",
     "codes": "KalosUnlocks,06Un"
+  },
+  {
+    "name": "Inkay Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0686Un"
+  },
+  {
+    "name": "Binacle Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0688Un"
+  },
+  {
+    "name": "Skrelp Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0690Un"
+  },
+  {
+    "name": "Clauncher Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0692Un"
+  },
+  {
+    "name": "Helioptile Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0694Un"
+  },
+  {
+    "name": "Tyrunt Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0696Un"
+  },
+  {
+    "name": "Amaura Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0698Un"
+  },
+  {
+    "name": "Hawlucha Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0701Un"
+  },
+  {
+    "name": "Dedenne Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0702Un"
+  },
+  {
+    "name": "Carbink Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0703Un"
+  },
+  {
+    "name": "Goomy Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0704Un"
+  },
+  {
+    "name": "Klefki Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0707Un"
+  },
+  {
+    "name": "Phantump Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0708Un"
+  },
+  {
+    "name": "Pumpkaboo Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0710Un"
+  },
+  {
+    "name": "Bergmite Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0712Un"
+  },
+  {
+    "name": "Noibat Line Unlock",
+    "type": "toggle",
+    "codes": "KalosUnlocks,0714Un"
+  },
+  {
+    "name": "Kalos Legendaries",
+    "type": "toggle",
+    "codes": "KalosUnlocks,KalosLegUn"
   }
 ]

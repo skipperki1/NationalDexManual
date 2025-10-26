@@ -1,233 +1,178 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
   {
-    "name": "Chikorita Line Unlock",
+    "name": "Rowlet Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0152Un"
+    "codes": "AlolaUnlocks,0722Un"
   },
   {
-    "name": "Cyndaquil Line Unlock",
+    "name": "Litten Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0155Un"
+    "codes": "AlolaUnlocks,0725Un"
   },
   {
-    "name": "Totodile Line Unlock",
+    "name": "Popplio Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0158Un"
+    "codes": "AlolaUnlocks,0728Un"
   },
   {
-    "name": "Sentret Line Unlock",
+    "name": "Pikipek Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0161Un"
+    "codes": "AlolaUnlocks,0731Un"
   },
   {
-    "name": "Hoothoot Line Unlock",
+    "name": "Yungoos Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0163Un"
+    "codes": "AlolaUnlocks,0734Un"
   },
   {
-    "name": "Ledyba Line Unlock",
+    "name": "Grubbin Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0165Un"
+    "codes": "AlolaUnlocks,0736Un"
   },
   {
-    "name": "Spinarak Line Unlock",
+    "name": "Crabrawler Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0167Un"
+    "codes": "AlolaUnlocks,0739Un"
   },
   {
-    "name": "Chinchou Line Unlock",
+    "name": "Oricorio Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0170Un"
+    "codes": "AlolaUnlocks,0741Un"
   },
   {
-    "name": "Togepi Line Unlock",
+    "name": "Cutiefly Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0175Un"
+    "codes": "AlolaUnlocks,0742Un"
   },
   {
-    "name": "Natu Line Unlock",
+    "name": "Rockruff Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0177Un"
+    "codes": "AlolaUnlocks,0744Un"
   },
   {
-    "name": "Mareep Line Unlock",
+    "name": "Wishwashi Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0179Un"
+    "codes": "AlolaUnlocks,0746Un"
   },
   {
-    "name": "Marill Line Unlock",
+    "name": "Mareanie Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0183Un"
+    "codes": "AlolaUnlocks,0747Un"
   },
   {
-    "name": "Sudowoodo Line Unlock",
+    "name": "Mudbray Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0185Un"
+    "codes": "AlolaUnlocks,0749Un"
   },
   {
-    "name": "Hoppip Line Unlock",
+    "name": "Dewpider Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0187Un"
+    "codes": "AlolaUnlocks,0751Un"
   },
   {
-    "name": "Aipom Line Unlock",
+    "name": "Fomantis Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0190Un"
+    "codes": "AlolaUnlocks,0753Un"
   },
   {
-    "name": "Sunkern Line Unlock",
+    "name": "Morelull Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0191Un"
+    "codes": "AlolaUnlocks,0755Un"
   },
   {
-    "name": "Yanma Line Unlock",
+    "name": "Salandit Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0193Un"
+    "codes": "AlolaUnlocks,0757Un"
   },
   {
-    "name": "Wooper Line Unlock",
+    "name": "Stufful Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0194Un"
+    "codes": "AlolaUnlocks,0759Un"
   },
   {
-    "name": "Murkrow Line Unlock",
+    "name": "Bounsweet Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0198Un"
+    "codes": "AlolaUnlocks,0761Un"
   },
   {
-    "name": "Misdreavus Line Unlock",
+    "name": "Comfey Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0200Un"
+    "codes": "AlolaUnlocks,0764Un"
   },
   {
-    "name": "Unown Line Unlock",
+    "name": "Oranguru Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0201Un"
+    "codes": "AlolaUnlocks,0765Un"
   },
   {
-    "name": "Wobbuffet Line Unlock",
+    "name": "Passimian Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0202Un"
+    "codes": "AlolaUnlocks,0766Un"
   },
   {
-    "name": "Girafarig Line Unlock",
+    "name": "Wimpod Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0203Un"
+    "codes": "AlolaUnlocks,0767Un"
   },
   {
-    "name": "Pineco Line Unlock",
+    "name": "Sandygast Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0204Un"
+    "codes": "AlolaUnlocks,0769Un"
   },
   {
-    "name": "Dunsparce Line Unlock",
+    "name": "Pyukumuku Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0206Un"
+    "codes": "AlolaUnlocks,0771Un"
   },
   {
-    "name": "Gligar Line Unlock",
+    "name": "Minior Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0207Un"
+    "codes": "AlolaUnlocks,0774Un"
   },
   {
-    "name": "Snubbull Line Unlock",
+    "name": "Komala Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0209Un"
+    "codes": "AlolaUnlocks,0775Un"
   },
   {
-    "name": "Qwilfish Line Unlock",
+    "name": "Turtonator Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0211Un"
+    "codes": "AlolaUnlocks,0776Un"
   },
   {
-    "name": "Shuckle Unlock",
+    "name": "Togedemaru Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0213Un"
+    "codes": "AlolaUnlocks,0777Un"
   },
   {
-    "name": "Heracross Unlock",
+    "name": "Mimikyu Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0214Un"
+    "codes": "AlolaUnlocks,0778Un"
   },
   {
-    "name": "Sneasel Line Unlock",
+    "name": "Bruxish Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0215Un"
+    "codes": "AlolaUnlocks,0779Un"
   },
   {
-    "name": "Teddiursa Line Unlock",
+    "name": "Drampa Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0216Un"
+    "codes": "AlolaUnlocks,0780Un"
   },
   {
-    "name": "Slugma Line Unlock",
+    "name": "Dhelmise Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0218Un"
+    "codes": "AlolaUnlocks,0781Un"
   },
   {
-    "name": "Corsola Line Unlock",
+    "name": "Jangmo-o Line Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0222Un"
+    "codes": "AlolaUnlocks,0782Un"
   },
   {
-    "name": "Remoraid Line Unlock",
+    "name": "Alola Legendaries Unlock",
     "type": "toggle",
-    "codes": "JohtoUnlocks,0223Un"
-  },
-  {
-    "name": "Delibird Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,0225Un"
-  },
-  {
-    "name": "Mantine Line Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,0226Un"
-  },
-  {
-    "name": "Skarmory Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,0227Un"
-  },
-  {
-    "name": "Houndour Line Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,0228Un"
-  },
-  {
-    "name": "Phanpy Line Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,0231Un"
-  },
-  {
-    "name": "Stantler Line Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,0234Un"
-  },
-  {
-    "name": "Smeargle Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,0235Un"
-  },
-  {
-    "name": "Tyrogue Line Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,0236Un"
-  },
-  {
-    "name": "Miltank Line Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,0241Un"
-  },
-  {
-    "name": "Larvitar Line Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,0246Un"
-  },
-  {
-    "name": "Johto Legendaries Unlock",
-    "type": "toggle",
-    "codes": "JohtoUnlocks,JohtoLegUn"
+    "codes": "AlolaUnlocks,AlolaLegUn"
   }
 ]
