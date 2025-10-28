@@ -9,5 +9,170 @@
     "name": "Scorbunny Line Unlock",
     "type": "toggle",
     "codes": "GalarUnlocks,0813Un"
+  },
+  {
+    "name": "Sobble Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0816Un"
+  },
+  {
+    "name": "Skwovet Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0819Un"
+  },
+  {
+    "name": "Rookidee Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0821Un"
+  },
+  {
+    "name": "Blipbug Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0824Un"
+  },
+  {
+    "name": "Nicket Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0827Un"
+  },
+  {
+    "name": "Gossifleur Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0829Un"
+  },
+  {
+    "name": "Wooloo Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0831Un"
+  },
+  {
+    "name": "Chewtle Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0833Un"
+  },
+  {
+    "name": "Yamper Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0835Un"
+  },
+  {
+    "name": "Rolycoly Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0837Un"
+  },
+  {
+    "name": "Applin Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0840Un"
+  },
+  {
+    "name": "Silicobra Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0843Un"
+  },
+  {
+    "name": "Cramorant Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0845Un"
+  },
+  {
+    "name": "Arrokuda Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0846Un"
+  },
+  {
+    "name": "Toxel Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0848Un"
+  },
+  {
+    "name": "Sizzlipede Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0850Un"
+  },
+  {
+    "name": "Clobbopus Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0852Un"
+  },
+  {
+    "name": "Sinistea Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0854Un"
+  },
+  {
+    "name": "Hatenna Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0856Un"
+  },
+  {
+    "name": "Impidimp Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0859Un"
+  },
+  {
+    "name": "Milcery Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0868Un"
+  },
+  {
+    "name": "Falinks Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0870Un"
+  },
+  {
+    "name": "Pincurchin Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0871Un"
+  },
+  {
+    "name": "Snom Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0872Un"
+  },
+  {
+    "name": "Stonjourner Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0874Un"
+  },
+  {
+    "name": "Eiscue Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0875Un"
+  },
+  {
+    "name": "Indeedee Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0876Un"
+  },
+  {
+    "name": "Morpeko Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0877Un"
+  },
+  {
+    "name": "Cufant Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0878Un"
+  },
+  {
+    "name": "Galar Fossils Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,GalarFossilsUn"
+  },
+  {
+    "name": "Duraludon Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0884Un"
+  },
+  {
+    "name": "Dreepy Line Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,0885Un"
+  },
+  {
+    "name": "Galar Legendaries Unlock",
+    "type": "toggle",
+    "codes": "GalarUnlocks,GalarLegUn"
   }
 ]
