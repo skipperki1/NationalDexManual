@@ -4866,6 +4866,546 @@
             "y": 700
           }
         ]
+      },
+      {
+        "name": "Phanpy #231",
+        "access_rules": [
+          "0231Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Donphan #232",
+        "access_rules": [
+          "0231Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Porygon2 #233",
+        "access_rules": [
+          "0137Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Stantler #234",
+        "access_rules": [
+          "0234Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Smeargle #235",
+        "access_rules": [
+          "0235Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Tyrogue #236",
+        "access_rules": [
+          "0236Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Hitmontop #237",
+        "access_rules": [
+          "0236Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Smoochum #238",
+        "access_rules": [
+          "0124Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Elekid #239",
+        "access_rules": [
+          "0125Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Magby #240",
+        "access_rules": [
+          "0126Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Miltank #241",
+        "access_rules": [
+          "0241Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Blissey #242",
+        "access_rules": [
+          "0113Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Raikou #243",
+        "access_rules": [
+          "JohtoLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Entei #244",
+        "access_rules": [
+          "JohtoLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Suicune #245",
+        "access_rules": [
+          "JohtoLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Larvitar #246",
+        "access_rules": [
+          "0246Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Pupitar #247",
+        "access_rules": [
+          "0246Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Tyranitar #248",
+        "access_rules": [
+          "0246Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Lugia #249",
+        "access_rules": [
+          "JohtoLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Ho-oh #250",
+        "access_rules": [
+          "JohtoLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Celebi #251",
+        "access_rules": [
+          "JohtoLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Treecko #252",
+        "access_rules": [
+          "0252Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Grovyle #253",
+        "access_rules": [
+          "0252Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Sceptile #254",
+        "access_rules": [
+          "0252Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Torchic #255",
+        "access_rules": [
+          "0255Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Combusken #256",
+        "access_rules": [
+          "0255Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Blaziken #257",
+        "access_rules": [
+          "0255Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Mudkip #258",
+        "access_rules": [
+          "0258Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Marshtomp #259",
+        "access_rules": [
+          "0258Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Swampert #260",
+        "access_rules": [
+          "0258Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
       }
     ]
   }
