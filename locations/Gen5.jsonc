@@ -1,0 +1,25 @@
+[
+    {
+    "name": "Gen 5 and Regionals",
+    "children": [
+        {
+        "name": "Treecko #252",
+        "access_rules": [
+          "0252Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      }
+    ]
+  }
+]
