@@ -126,6 +126,11 @@
     "codes": "AlolaUnlocks,0771Un"
   },
   {
+    "name": "Type Null Unlock",
+    "type": "toggle",
+    "codes": "AlolaUnlocks,0772Un"
+  },
+  {
     "name": "Minior Unlock",
     "type": "toggle",
     "codes": "AlolaUnlocks,0774Un"
@@ -174,5 +179,10 @@
     "name": "Alola Legendaries Unlock",
     "type": "toggle",
     "codes": "AlolaUnlocks,AlolaLegUn"
+  },
+  {
+    "name": "Meltan Line Unlock",
+    "type": "toggle",
+    "codes": "AlolaUnlocks,0808Un"
   }
 ]

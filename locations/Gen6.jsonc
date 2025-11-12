@@ -3,9 +3,1341 @@
     "name": "Gen 6 and Regionals",
     "children": [
         {
-        "name": "Treecko #252",
+        "name": "Chespin #650",
         "access_rules": [
-          "0252Un"
+          "0650Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Quilladin #651",
+        "access_rules": [
+          "0650Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Chesnaught #652",
+        "access_rules": [
+          "0650Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Fennekin #653",
+        "access_rules": [
+          "0653Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Braixen #654",
+        "access_rules": [
+          "0653Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Delphox #655",
+        "access_rules": [
+          "0653Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Froakie #656",
+        "access_rules": [
+          "0656Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Frogadier #657",
+        "access_rules": [
+          "0656Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Greninja #658",
+        "access_rules": [
+          "0656Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Bunnelby #659",
+        "access_rules": [
+          "0659Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Diggersby #660",
+        "access_rules": [
+          "0659Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Fletchling #661",
+        "access_rules": [
+          "0661Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Fletchinder #662",
+        "access_rules": [
+          "0661Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Talonflame #663",
+        "access_rules": [
+          "0661Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Scatterbug #664",
+        "access_rules": [
+          "0664Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Spewpa #665",
+        "access_rules": [
+          "0664Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Vivillon #666",
+        "access_rules": [
+          "0664Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Litleo #667",
+        "access_rules": [
+          "0667Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Pyroar #668",
+        "access_rules": [
+          "0667Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Flabébé #669",
+        "access_rules": [
+          "0669Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Floette #670",
+        "access_rules": [
+          "0669Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Florges #671",
+        "access_rules": [
+          "0669Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Skiddo #672",
+        "access_rules": [
+          "0672Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Gogoat #673",
+        "access_rules": [
+          "0672Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Pancham #674",
+        "access_rules": [
+          "0674Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Pangoro #675",
+        "access_rules": [
+          "0674Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Furfrou #676",
+        "access_rules": [
+          "0676Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Espurr #677",
+        "access_rules": [
+          "0677Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Meowstic #678",
+        "access_rules": [
+          "0677Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Honedge #679",
+        "access_rules": [
+          "0679Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Doublade #680",
+        "access_rules": [
+          "0679Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Aegislash #681",
+        "access_rules": [
+          "0679Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Spritzee #682",
+        "access_rules": [
+          "0682Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Aromatisse #683",
+        "access_rules": [
+          "0682Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Swirlix #684",
+        "access_rules": [
+          "0684Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Slurpuff #685",
+        "access_rules": [
+          "0684Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Inkay #686",
+        "access_rules": [
+          "0686Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Malamar #687",
+        "access_rules": [
+          "0686Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Binacle #688",
+        "access_rules": [
+          "0688Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Barbaracle #689",
+        "access_rules": [
+          "0688Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Skrelp #690",
+        "access_rules": [
+          "0690Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Dragalge #691",
+        "access_rules": [
+          "0690Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Clauncher #692",
+        "access_rules": [
+          "0692Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Clawitzer #693",
+        "access_rules": [
+          "0692Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Helioptile #694",
+        "access_rules": [
+          "0694Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Heliolisk #695",
+        "access_rules": [
+          "0694Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Tyrunt #696",
+        "access_rules": [
+          "0696Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Tyrantrum #697",
+        "access_rules": [
+          "0696Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Amaura #698",
+        "access_rules": [
+          "0698Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Aurorus #699",
+        "access_rules": [
+          "0698Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Sylveon #700",
+        "access_rules": [
+          "0133Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Hawlucha #701",
+        "access_rules": [
+          "0701Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Dedenne #702",
+        "access_rules": [
+          "0702Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Carbink #703",
+        "access_rules": [
+          "0703Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Goomy #704",
+        "access_rules": [
+          "0704Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Sliggoo #705",
+        "access_rules": [
+          "0704Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Sliggoo (Hisuian) #705",
+        "access_rules": [
+          "0704Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Goodra #706",
+        "access_rules": [
+          "0704Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Goodra (Hisuian) #706",
+        "access_rules": [
+          "0704Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Klefki #707",
+        "access_rules": [
+          "0707Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Phantump #708",
+        "access_rules": [
+          "0708Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Trevenant #709",
+        "access_rules": [
+          "0708Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Pumpkaboo #710",
+        "access_rules": [
+          "0710Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Gourgeist #711",
+        "access_rules": [
+          "0710Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Bergmite #712",
+        "access_rules": [
+          "0712Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Avalugg #713",
+        "access_rules": [
+          "0712Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Avalugg (Hisuian) #713",
+        "access_rules": [
+          "0712Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Noibat #714",
+        "access_rules": [
+          "0714Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Noivern #715",
+        "access_rules": [
+          "0714Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Xerneas #716",
+        "access_rules": [
+          "KalosLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Yveltal #717",
+        "access_rules": [
+          "KalosLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Zygarde #718",
+        "access_rules": [
+          "KalosLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Diancie #719",
+        "access_rules": [
+          "KalosLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Hoopa #720",
+        "access_rules": [
+          "KalosLegUn"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Volcanion #721",
+        "access_rules": [
+          "KalosLegUn"
         ],
         "sections": [
           {
