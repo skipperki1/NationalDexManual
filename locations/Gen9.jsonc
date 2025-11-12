@@ -3,9 +3,27 @@
     "name": "Gen 9 and Regionals",
     "children": [
         {
-        "name": "Treecko #252",
+        "name": "Sprigatito #906",
         "access_rules": [
-          "0252Un"
+          "0906Un"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "x": 1750,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Floragato #907",
+        "access_rules": [
+          "0906Un"
         ],
         "sections": [
           {
