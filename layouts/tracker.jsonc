@@ -28,20 +28,19 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Map 1",
+              "title": "Red/Blue",
               "content": {
-                "type": "map",
-                "maps": [
-                  "map1"
-                ]
-              }
-            },
-            {
-              "title": "Map 2",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map2"
+               "type": "tabbed",
+               "tabs": [
+                {
+                 "title": "1-50",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "RB1-50"
+                    ]
+                  }
+                }
                 ]
               }
             }
@@ -79,20 +78,46 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Map 1",
+              "title": "Red/Blue/Yellow",
               "content": {
-                "type": "map",
-                "maps": [
-                  "map1"
-                ]
-              }
-            },
-            {
-              "title": "Map 2",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map2"
+               "type": "tabbed",
+               "tabs": [
+                {
+                 "title": "1-50",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "RB1-50"
+                    ]
+                  }
+                },
+                {
+                 "title": "51-100",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "RB51-100"
+                    ]
+                  }
+                },
+                {
+                 "title": "101-150",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "RB101-150"
+                    ]
+                  }
+                },
+                {
+                 "title": "Mythicals",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "RBMyth"
+                    ]
+                  }
+                }
                 ]
               }
             }

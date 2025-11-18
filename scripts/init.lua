@@ -24,13 +24,30 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlus.lua")
 ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 
 -- Items
-Tracker:AddItems("items/items.jsonc")
+Tracker:AddItems("items/Kanto.jsonc")
+Tracker:AddItems("items/Johto.jsonc")
+Tracker:AddItems("items/Hoenn.jsonc")
+Tracker:AddItems("items/Sinnoh.jsonc")
+Tracker:AddItems("items/Unova.jsonc")
+Tracker:AddItems("items/Kalos.jsonc")
+Tracker:AddItems("items/Alola.jsonc")
+Tracker:AddItems("items/Galar.jsonc")
+Tracker:AddItems("items/Hisui.jsonc")
+Tracker:AddItems("items/Paldea.jsonc")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
     Tracker:AddMaps("maps/maps.jsonc")
     -- Locations
-    Tracker:AddLocations("locations/locations.jsonc")
+    Tracker:AddLocations("locations/Gen1.jsonc")
+    Tracker:AddLocations("locations/Gen2.jsonc")
+    Tracker:AddLocations("locations/Gen3.jsonc")
+    Tracker:AddLocations("locations/Gen4.jsonc")
+    Tracker:AddLocations("locations/Gen5.jsonc")
+    Tracker:AddLocations("locations/Gen6.jsonc")
+    Tracker:AddLocations("locations/Gen7.jsonc")
+    Tracker:AddLocations("locations/Gen8.jsonc")
+    Tracker:AddLocations("locations/Gen9.jsonc")
 end
 
 -- Layout

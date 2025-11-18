@@ -1,15 +1,27 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
   {
-    "name": "map1",
-    "location_size": 48,
+    "name": "RB1-50",
+    "location_size": 16,
     "location_border_thickness": 4,
-    "img": "images/maps/map.png"
+    "img": "images/maps/RB1-50.png"
   },
   {
-    "name": "map2",
-    "location_size": 48,
+    "name": "RB51-100",
+    "location_size": 16,
     "location_border_thickness": 4,
-    "img": "images/maps/map_2.png"
+    "img": "images/maps/RB51-100.png"
+  },
+  {
+    "name": "RB101-150",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/RB101-150.png"
+  },
+  {
+    "name": "RBMyth",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mythicals.png"
   }
 ]
