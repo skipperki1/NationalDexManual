@@ -5,6 +5,24 @@
     "chest_opened_img": "images/items/Caught.png",
     "children": [
       {
+        "name": "National Pokedex Complete",
+        "access_rules": [
+          "AllPokemonCaught"
+        ],
+        "sections": [
+          {
+            "name": "Catch!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "RB1-50",
+            "x": 59,
+            "y": 107
+          }
+        ]
+      },
+      {
         "name": "Bulbasaur #1",
         "access_rules": [
           "0001Un"

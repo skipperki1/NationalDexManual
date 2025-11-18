@@ -1,0 +1,13 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "AllPokemonCaught",
+    "type": "consumable",
+    "img": "images/items/Uncaught",
+    "max_quantity": 1082,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "codes": "AllPokemonCaught"
+  }
+]

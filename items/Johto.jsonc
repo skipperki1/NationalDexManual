@@ -166,6 +166,11 @@
     "codes": "JohtoUnlocks,0218Un"
   },
   {
+    "name": "Swinub Line Unlock",
+    "type": "toggle",
+    "codes": "JohtoUnlocks,0220Un"
+  },
+  {
     "name": "Corsola Line Unlock",
     "type": "toggle",
     "codes": "JohtoUnlocks,0222Un"
