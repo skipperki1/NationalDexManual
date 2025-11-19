@@ -11,12 +11,12 @@
         ],
         "sections": [
           {
-            "name": "Catch!"
+            "name": "WIN"
           }
         ],
         "map_locations": [
           {
-            "map": "RB1-50",
+            "map": "map1",
             "x": 59,
             "y": 107
           }
@@ -1085,7 +1085,7 @@
         ]
       },
       {
-        "name": "Dugtio (Alolan) #51",
+        "name": "Dugtrio (Alolan) #51",
         "access_rules": [
           "0050Un"
         ],

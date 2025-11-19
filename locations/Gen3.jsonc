@@ -1479,24 +1479,6 @@
         ]
       },
       {
-        "name": "Cacnea #331",
-        "access_rules": [
-          "0331Un"
-        ],
-        "sections": [
-          {
-            "name": "Catch!"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "map1",
-            "x": 1750,
-            "y": 700
-          }
-        ]
-      },
-      {
         "name": "Cactune #332",
         "access_rules": [
           "0331Un"
