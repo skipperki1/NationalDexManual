@@ -7,6 +7,7 @@
     "children": [
       {
         "name": "National Pokedex Complete",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "$VictoryCon"
         ],
@@ -25,6 +26,7 @@
       },
       {
         "name": "Bulbasaur #1",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0001Un"
         ],
@@ -43,6 +45,7 @@
       },
       {
         "name": "Ivysaur #2",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0001Un"
         ],
@@ -61,6 +64,7 @@
       },
       {
         "name": "Venusaur #3",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0001Un"
         ],
@@ -79,6 +83,7 @@
       },
       {
         "name": "Charmander #4",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0004Un"
         ],
@@ -97,6 +102,7 @@
       },
       {
         "name": "Charmeleon #5",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0004Un"
         ],
@@ -115,6 +121,7 @@
       },
       {
         "name": "Charizard #6",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0004Un"
         ],
@@ -133,6 +140,7 @@
       },
       {
         "name": "Squirtle #7",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0007Un"
         ],
@@ -151,6 +159,7 @@
       },
       {
         "name": "Wartortle #8",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0007Un"
         ],
@@ -169,6 +178,7 @@
       },
       {
         "name": "Blastoise #9",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0007Un"
         ],
@@ -187,6 +197,7 @@
       },
       {
         "name": "Caterpie #10",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0010Un"
         ],
@@ -210,6 +221,7 @@
       },
       {
         "name": "Metapod #11",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0010Un"
         ],
@@ -233,6 +245,7 @@
       },
       {
         "name": "Butterfree #12",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0010Un"
         ],
@@ -256,6 +269,7 @@
       },
       {
         "name": "Weedle #13",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0013Un"
         ],
@@ -279,6 +293,7 @@
       },
       {
         "name": "Kakuna #14",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0013Un"
         ],
@@ -302,6 +317,7 @@
       },
       {
         "name": "Beedrill #15",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0013Un"
         ],
@@ -325,6 +341,7 @@
       },
       {
         "name": "Pidgey #16",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0016Un"
         ],
@@ -348,6 +365,7 @@
       },
       {
         "name": "Pidgeotto #17",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0016Un"
         ],
@@ -371,6 +389,7 @@
       },
       {
         "name": "Pidgeot #18",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0016Un"
         ],
@@ -394,6 +413,7 @@
       },
       {
         "name": "Rattata #19",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0019Un"
         ],
@@ -417,6 +437,7 @@
       },
       {
         "name": "Rattata (Alolan) #19",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0019Un"
         ],
@@ -435,6 +456,7 @@
       },
       {
         "name": "Raticate #20",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0019Un"
         ],
@@ -458,6 +480,7 @@
       },
       {
         "name": "Raticate (Alolan) #20",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0019Un"
         ],
@@ -476,6 +499,7 @@
       },
       {
         "name": "Spearow #21",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0021Un"
         ],
@@ -499,6 +523,7 @@
       },
       {
         "name": "Fearow #22",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0021Un"
         ],
@@ -522,6 +547,7 @@
       },
       {
         "name": "Ekans #23",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0023Un"
         ],
@@ -545,6 +571,7 @@
       },
       {
         "name": "Arbok #24",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0023Un"
         ],
@@ -568,6 +595,7 @@
       },
       {
         "name": "Pikachu #25",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0025Un"
         ],
@@ -591,6 +619,7 @@
       },
       {
         "name": "Raichu #26",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0025Un"
         ],
@@ -614,6 +643,7 @@
       },
       {
         "name": "Raichu (Alolan) #26",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0025Un"
         ],
@@ -632,6 +662,7 @@
       },
       {
         "name": "Sandshrew #27",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0027Un"
         ],
@@ -655,6 +686,7 @@
       },
       {
         "name": "Sandshrew (Alolan) #27",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0027Un"
         ],
@@ -673,6 +705,7 @@
       },
       {
         "name": "Sandslash #28",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0027Un"
         ],
@@ -696,6 +729,7 @@
       },
       {
         "name": "Sandslash (Alolan) #28",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0027Un"
         ],
@@ -714,6 +748,7 @@
       },
       {
         "name": "NidoranF #29",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0029Un"
         ],
@@ -737,6 +772,7 @@
       },
       {
         "name": "Nidorina #30",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0029Un"
         ],
@@ -760,6 +796,7 @@
       },
       {
         "name": "Nidoqueen #31",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0029Un"
         ],
@@ -783,6 +820,7 @@
       },
       {
         "name": "NidoranM #32",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0032Un"
         ],
@@ -806,6 +844,7 @@
       },
       {
         "name": "Nidorino #33",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0032Un"
         ],
@@ -829,6 +868,7 @@
       },
       {
         "name": "Nidoking #34",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0032Un"
         ],
@@ -852,6 +892,7 @@
       },
       {
         "name": "Clefairy #35",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0035Un"
         ],
@@ -875,6 +916,7 @@
       },
       {
         "name": "Clefable #36",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0035Un"
         ],
@@ -898,6 +940,7 @@
       },
       {
         "name": "Vulpix #37",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0037Un"
         ],
@@ -921,6 +964,7 @@
       },
       {
         "name": "Vulpix (Alolan) #37",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0037Un"
         ],
@@ -939,6 +983,7 @@
       },
       {
         "name": "Ninetales #38",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0037Un"
         ],
@@ -962,6 +1007,7 @@
       },
       {
         "name": "Ninetales (Alolan) #38",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0037Un"
         ],
@@ -980,6 +1026,7 @@
       },
       {
         "name": "Jigglypuff #39",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0039Un"
         ],
@@ -1003,6 +1050,7 @@
       },
       {
         "name": "Wigglytuff #40",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0039Un"
         ],
@@ -1026,6 +1074,7 @@
       },
       {
         "name": "Zubat #41",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0041Un"
         ],
@@ -1049,6 +1098,7 @@
       },
       {
         "name": "Golbat #42",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0041Un"
         ],
@@ -1072,6 +1122,7 @@
       },
       {
         "name": "Oddish #43",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0043Un"
         ],
@@ -1095,6 +1146,7 @@
       },
       {
         "name": "Gloom #44",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0043Un"
         ],
@@ -1118,6 +1170,7 @@
       },
       {
         "name": "Vileplume #45",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0043Un"
         ],
@@ -1141,6 +1194,7 @@
       },
       {
         "name": "Paras #46",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0046Un"
         ],
@@ -1164,6 +1218,7 @@
       },
       {
         "name": "Parasect #47",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0046Un"
         ],
@@ -1187,6 +1242,7 @@
       },
       {
         "name": "Venonat #48",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0048Un"
         ],
@@ -1210,6 +1266,7 @@
       },
       {
         "name": "Venomoth #49",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0048Un"
         ],
@@ -1233,6 +1290,7 @@
       },
       {
         "name": "Diglett #50",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0050Un"
         ],
@@ -1256,6 +1314,7 @@
       },
       {
         "name": "Diglett (Alolan) #50",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0050Un"
         ],
@@ -1274,6 +1333,7 @@
       },
       {
         "name": "Dugtrio #51",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0050Un"
         ],
@@ -1297,6 +1357,7 @@
       },
       {
         "name": "Dugtrio (Alolan) #51",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0050Un"
         ],
@@ -1315,6 +1376,7 @@
       },
       {
         "name": "Meowth #52",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0052Un"
         ],
@@ -1338,6 +1400,7 @@
       },
       {
         "name": "Meowth (Alolan) #52",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0052Un"
         ],
@@ -1356,6 +1419,7 @@
       },
       {
         "name": "Meowth (Galarian) #52",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0052Un"
         ],
@@ -1374,6 +1438,7 @@
       },
       {
         "name": "Persian #53",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0052Un"
         ],
@@ -1397,6 +1462,7 @@
       },
       {
         "name": "Persian (Alolan) #53",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0052Un"
         ],
@@ -1415,6 +1481,7 @@
       },
       {
         "name": "Psyduck #54",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0054Un"
         ],
@@ -1438,6 +1505,7 @@
       },
       {
         "name": "Golduck #55",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0053Un"
         ],
@@ -1461,6 +1529,7 @@
       },
       {
         "name": "Mankey #56",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0056Un"
         ],
@@ -1484,6 +1553,7 @@
       },
       {
         "name": "Primeape #57",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0056Un"
         ],
@@ -1507,6 +1577,7 @@
       },
       {
         "name": "Growlithe #58",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0058Un"
         ],
@@ -1530,6 +1601,7 @@
       },
       {
         "name": "Growlithe (Hisuian) #58",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0058Un"
         ],
@@ -1548,6 +1620,7 @@
       },
       {
         "name": "Arcanine #59",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0058Un"
         ],
@@ -1571,6 +1644,7 @@
       },
       {
         "name": "Arcanine (Hisuian) #59",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0058Un"
         ],
@@ -1589,6 +1663,7 @@
       },
       {
         "name": "Poliwag #60",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0060Un"
         ],
@@ -1612,6 +1687,7 @@
       },
       {
         "name": "Poliwhirl #61",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0060Un"
         ],
@@ -1635,6 +1711,7 @@
       },
       {
         "name": "Poliwrath #62",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0060Un"
         ],
@@ -1658,6 +1735,7 @@
       },
       {
         "name": "Abra #63",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0063Un"
         ],
@@ -1681,6 +1759,7 @@
       },
       {
         "name": "Kadabra #64",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0063Un"
         ],
@@ -1704,6 +1783,7 @@
       },
       {
         "name": "Alakazam #65",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0063Un"
         ],
@@ -1727,6 +1807,7 @@
       },
       {
         "name": "Machop #66",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0066Un"
         ],
@@ -1750,6 +1831,7 @@
       },
       {
         "name": "Machoke #67",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0066Un"
         ],
@@ -1773,6 +1855,7 @@
       },
       {
         "name": "Machamp #68",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0066Un"
         ],
@@ -1796,6 +1879,7 @@
       },
       {
         "name": "Bellsprout #69",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0069Un"
         ],
@@ -1819,6 +1903,7 @@
       },
       {
         "name": "Weepinbell #70",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0069Un"
         ],
@@ -1842,6 +1927,7 @@
       },
       {
         "name": "Victreebel #71",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0069Un"
         ],
@@ -1865,6 +1951,7 @@
       },
       {
         "name": "Tentacool #72",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0072Un"
         ],
@@ -1888,6 +1975,7 @@
       },
       {
         "name": "Tentacruel #73",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0072Un"
         ],
@@ -1911,6 +1999,7 @@
       },
       {
         "name": "Geodude #74",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0074Un"
         ],
@@ -1934,6 +2023,7 @@
       },
       {
         "name": "Geodude (Alolan) #74",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0074Un"
         ],
@@ -1952,6 +2042,7 @@
       },
       {
         "name": "Graveler #75",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0074Un"
         ],
@@ -1975,6 +2066,7 @@
       },
       {
         "name": "Graveler (Alolan) #75",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0074Un"
         ],
@@ -1993,6 +2085,7 @@
       },
       {
         "name": "Golem #76",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0074Un"
         ],
@@ -2016,6 +2109,7 @@
       },
       {
         "name": "Golem (Alolan) #76",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0074Un"
         ],
@@ -2034,6 +2128,7 @@
       },
       {
         "name": "Ponyta #77",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0077Un"
         ],
@@ -2057,6 +2152,7 @@
       },
       {
         "name": "Ponyta (Galarian) #77",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0077Un"
         ],
@@ -2075,6 +2171,7 @@
       },
       {
         "name": "Rapidash #78",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0077Un"
         ],
@@ -2098,6 +2195,7 @@
       },
       {
         "name": "Rapidash (Galarian) #78",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0077Un"
         ],
@@ -2116,6 +2214,7 @@
       },
       {
         "name": "Slowpoke #79",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0079Un"
         ],
@@ -2139,6 +2238,7 @@
       },
       {
         "name": "Slowpoke (Galarian) #79",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0079Un"
         ],
@@ -2157,6 +2257,7 @@
       },
       {
         "name": "Slowbro #80",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0079Un"
         ],
@@ -2180,6 +2281,7 @@
       },
       {
         "name": "Slowbro (Galarian) #80",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0079Un"
         ],
@@ -2198,6 +2300,7 @@
       },
       {
         "name": "Magnemite #81",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0081Un"
         ],
@@ -2221,6 +2324,7 @@
       },
       {
         "name": "Magneton #82",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0081Un"
         ],
@@ -2244,6 +2348,7 @@
       },
       {
         "name": "Farfetch'd #83",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0083Un"
         ],
@@ -2267,6 +2372,7 @@
       },
       {
         "name": "Farfetch'd (Galarian) #83",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0083Un"
         ],
@@ -2285,6 +2391,7 @@
       },
       {
         "name": "Doduo #84",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0084Un"
         ],
@@ -2308,6 +2415,7 @@
       },
       {
         "name": "Dodrio #85",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0084Un"
         ],
@@ -2331,6 +2439,7 @@
       },
       {
         "name": "Seel #86",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0086Un"
         ],
@@ -2354,6 +2463,7 @@
       },
       {
         "name": "Dewgong #87",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0086Un"
         ],
@@ -2377,6 +2487,7 @@
       },
       {
         "name": "Grimer #88",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0088Un"
         ],
@@ -2400,6 +2511,7 @@
       },
       {
         "name": "Grimer (Alolan) #88",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0088Un"
         ],
@@ -2418,6 +2530,7 @@
       },
       {
         "name": "Muk #89",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0088Un"
         ],
@@ -2441,6 +2554,7 @@
       },
       {
         "name": "Muk (Alolan) #89",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0088Un"
         ],
@@ -2459,6 +2573,7 @@
       },
       {
         "name": "Shellder #90",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0090Un"
         ],
@@ -2482,6 +2597,7 @@
       },
       {
         "name": "Cloyster #91",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0090Un"
         ],
@@ -2505,6 +2621,7 @@
       },
       {
         "name": "Gastly #92",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0092Un"
         ],
@@ -2528,6 +2645,7 @@
       },
       {
         "name": "Haunter #93",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0092Un"
         ],
@@ -2551,6 +2669,7 @@
       },
       {
         "name": "Gengar #94",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0092Un"
         ],
@@ -2574,6 +2693,7 @@
       },
       {
         "name": "Onix #95",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0095Un"
         ],
@@ -2597,6 +2717,7 @@
       },
       {
         "name": "Drowzee #96",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0096Un"
         ],
@@ -2620,6 +2741,7 @@
       },
       {
         "name": "Hypno #97",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0096Un"
         ],
@@ -2643,6 +2765,7 @@
       },
       {
         "name": "Krabby #98",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0098Un"
         ],
@@ -2666,6 +2789,7 @@
       },
       {
         "name": "Kingler #99",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0098Un"
         ],
@@ -2689,6 +2813,7 @@
       },
       {
         "name": "Voltorb #100",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0100Un"
         ],
@@ -2712,6 +2837,7 @@
       },
       {
         "name": "Voltorb (Hisuian) #100",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0100Un"
         ],
@@ -2730,6 +2856,7 @@
       },
       {
         "name": "Electrode #101",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0100Un"
         ],
@@ -2753,6 +2880,7 @@
       },
       {
         "name": "Electrode (Hisuian) #101",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0100Un"
         ],
@@ -2771,6 +2899,7 @@
       },
       {
         "name": "Exeggcute #102",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0102Un"
         ],
@@ -2794,6 +2923,7 @@
       },
       {
         "name": "Exeggutor #103",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0102Un"
         ],
@@ -2817,6 +2947,7 @@
       },
       {
         "name": "Exeggutor (Alolan) #103",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0102Un"
         ],
@@ -2835,6 +2966,7 @@
       },
       {
         "name": "Cubone #104",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0104Un"
         ],
@@ -2858,6 +2990,7 @@
       },
       {
         "name": "Marowak #105",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0104Un"
         ],
@@ -2881,6 +3014,7 @@
       },
       {
         "name": "Marowak (Alolan) #105",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0104Un"
         ],
@@ -2899,6 +3033,7 @@
       },
       {
         "name": "Hitmonlee #106",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0236Un"
         ],
@@ -2922,6 +3057,7 @@
       },
       {
         "name": "Hitmonchan #107",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0236Un"
         ],
@@ -2945,6 +3081,7 @@
       },
       {
         "name": "Lickitung #108",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0108Un"
         ],
@@ -2968,6 +3105,7 @@
       },
       {
         "name": "Koffing #109",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0109Un"
         ],
@@ -2991,6 +3129,7 @@
       },
       {
         "name": "Weezing #110",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0109Un"
         ],
@@ -3014,6 +3153,7 @@
       },
       {
         "name": "Weezing (Galarian) #110",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0109Un"
         ],
@@ -3032,6 +3172,7 @@
       },
       {
         "name": "Rhyhorn #111",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0111Un"
         ],
@@ -3055,6 +3196,7 @@
       },
       {
         "name": "Rhydon #112",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0111Un"
         ],
@@ -3078,6 +3220,7 @@
       },
       {
         "name": "Chansey #113",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0113Un"
         ],
@@ -3101,6 +3244,7 @@
       },
       {
         "name": "Tangela #114",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0114Un"
         ],
@@ -3124,6 +3268,7 @@
       },
       {
         "name": "Kangaskhan #115",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0115Un"
         ],
@@ -3147,6 +3292,7 @@
       },
       {
         "name": "Horsea #116",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0116Un"
         ],
@@ -3170,6 +3316,7 @@
       },
       {
         "name": "Seadra #117",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0116Un"
         ],
@@ -3193,6 +3340,7 @@
       },
       {
         "name": "Goldeen #118",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0118Un"
         ],
@@ -3216,6 +3364,7 @@
       },
       {
         "name": "Seaking #119",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0118Un"
         ],
@@ -3239,6 +3388,7 @@
       },
       {
         "name": "Staryu #120",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0120Un"
         ],
@@ -3262,6 +3412,7 @@
       },
       {
         "name": "Starmie #121",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0120Un"
         ],
@@ -3285,6 +3436,7 @@
       },
       {
         "name": "Mr. Mime #122",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0122Un"
         ],
@@ -3308,6 +3460,7 @@
       },
       {
         "name": "Mr. Mime (Galarian) #122",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0122Un"
         ],
@@ -3326,6 +3479,7 @@
       },
       {
         "name": "Scyther #123",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0123Un"
         ],
@@ -3349,6 +3503,7 @@
       },
       {
         "name": "Jynx #124",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0124Un"
         ],
@@ -3372,6 +3527,7 @@
       },
       {
         "name": "Electabuzz #125",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0125Un"
         ],
@@ -3395,6 +3551,7 @@
       },
       {
         "name": "Magmar #126",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0126Un"
         ],
@@ -3418,6 +3575,7 @@
       },
       {
         "name": "Pinsir #127",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0127Un"
         ],
@@ -3441,6 +3599,7 @@
       },
       {
         "name": "Tauros #128",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0128Un"
         ],
@@ -3464,6 +3623,7 @@
       },
       {
         "name": "Tauros (Paldean) #128",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0128Un"
         ],
@@ -3482,6 +3642,7 @@
       },
       {
         "name": "Magikarp #129",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0129Un"
         ],
@@ -3505,6 +3666,7 @@
       },
       {
         "name": "Gyarados #130",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0129Un"
         ],
@@ -3528,6 +3690,7 @@
       },
       {
         "name": "Lapras #131",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0131Un"
         ],
@@ -3551,6 +3714,7 @@
       },
       {
         "name": "Ditto #132",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0132Un"
         ],
@@ -3574,6 +3738,7 @@
       },
       {
         "name": "Eevee #133",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0133Un"
         ],
@@ -3597,6 +3762,7 @@
       },
       {
         "name": "Vaporeon #134",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0133Un"
         ],
@@ -3620,6 +3786,7 @@
       },
       {
         "name": "Jolteon #135",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0133Un"
         ],
@@ -3643,6 +3810,7 @@
       },
       {
         "name": "Flareon #136",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0133Un"
         ],
@@ -3666,6 +3834,7 @@
       },
       {
         "name": "Porygon #137",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0137Un"
         ],
@@ -3689,6 +3858,7 @@
       },
       {
         "name": "Omanyte #138",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0138Un"
         ],
@@ -3707,6 +3877,7 @@
       },
       {
         "name": "Omastar #139",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0138Un"
         ],
@@ -3725,6 +3896,7 @@
       },
       {
         "name": "Kabuto #140",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0140Un"
         ],
@@ -3743,6 +3915,7 @@
       },
       {
         "name": "Kabutops #141",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0140Un"
         ],
@@ -3761,6 +3934,7 @@
       },
       {
         "name": "Aerodactyl #142",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0142Un"
         ],
@@ -3784,6 +3958,7 @@
       },
       {
         "name": "Snorlax #143",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0143Un"
         ],
@@ -3807,6 +3982,7 @@
       },
       {
         "name": "Articuno #144",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "KantoLegUn"
         ],
@@ -3825,6 +4001,7 @@
       },
       {
         "name": "Articuno (Galarian) #144",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "GalarLegUn"
         ],
@@ -3843,6 +4020,7 @@
       },
       {
         "name": "Zapdos #145",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "KantoLegUn"
         ],
@@ -3861,6 +4039,7 @@
       },
       {
         "name": "Zapdos (Galarian) #145",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "GalarLegUn"
         ],
@@ -3879,6 +4058,7 @@
       },
       {
         "name": "Moltres #146",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "KantoLegUn"
         ],
@@ -3897,6 +4077,7 @@
       },
       {
         "name": "Moltres (Galarian) #146",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "GalarLegUn"
         ],
@@ -3915,6 +4096,7 @@
       },
       {
         "name": "Dratini #147",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0147Un"
         ],
@@ -3938,6 +4120,7 @@
       },
       {
         "name": "Dragonair #148",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0147Un"
         ],
@@ -3961,6 +4144,7 @@
       },
       {
         "name": "Dragonite #149",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "0147Un"
         ],
@@ -3984,6 +4168,7 @@
       },
       {
         "name": "Mewtwo #150",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "KantoLegUn"
         ],
@@ -4002,6 +4187,7 @@
       },
       {
         "name": "Mew #151",
+        "hosted_item": "AllPokemonCaught",
         "access_rules": [
           "KantoLegUn"
         ],

@@ -1,7 +1,7 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
   {
-    "name": "AllPokemonCaught",
+    "name": "Total Pokemon Caught",
     "type": "consumable",
     "img": "images/items/Uncaught.png",
     "max_quantity": 1082,
