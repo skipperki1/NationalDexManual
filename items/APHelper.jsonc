@@ -3,7 +3,7 @@
   {
     "name": "AllPokemonCaught",
     "type": "consumable",
-    "img": "images/items/Uncaught",
+    "img": "images/items/Uncaught.png",
     "max_quantity": 1082,
     "increment": 1,
     "decrement": 1,
