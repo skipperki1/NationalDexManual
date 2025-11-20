@@ -8,7 +8,7 @@
       {
         "name": "National Pokedex Complete",
         "access_rules": [
-          "AllPokemonCaught"
+          "$VictoryCon"
         ],
         "sections": [
           {

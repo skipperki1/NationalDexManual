@@ -34,6 +34,7 @@ Tracker:AddItems("items/Alola.jsonc")
 Tracker:AddItems("items/Galar.jsonc")
 Tracker:AddItems("items/Hisui.jsonc")
 Tracker:AddItems("items/Paldea.jsonc")
+Tracker:AddItems("items/APHelper.jsonc")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
