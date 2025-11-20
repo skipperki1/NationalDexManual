@@ -120,6 +120,68 @@
                 }
                 ]
               }
+            },
+            {
+              "title": "Gold/Silver/Crystal",
+              "content": {
+               "type": "tabbed",
+               "tabs": [
+                {
+                 "title": "1-50",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "GSC1-50"
+                    ]
+                  }
+                },
+                {
+                 "title": "51-100",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "GSC51-100"
+                    ]
+                  }
+                },
+                {
+                 "title": "101-150",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "GSC101-150"
+                    ]
+                  }
+                },
+                {
+                 "title": "151-200",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "GSC151-200"
+                    ]
+                  }
+                },
+                {
+                 "title": "201-249",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "GSC201-249"
+                    ]
+                  }
+                },
+                {
+                 "title": "Mythicals",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "GSCMyth"
+                    ]
+                  }
+                }
+                ]
+              }
             }
           ]
         }

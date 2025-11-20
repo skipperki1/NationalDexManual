@@ -23,5 +23,41 @@
     "location_size": 16,
     "location_border_thickness": 4,
     "img": "images/maps/Mythicals.png"
+  },
+  {
+    "name": "GSC1-50",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/GSC1-50.png"
+  },
+  {
+    "name": "GSC51-100",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/GSC51-100.png"
+  },
+  {
+    "name": "GSC101-150",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/GSC101-150.png"
+  },
+  {
+    "name": "GSC151-200",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/GSC151-200.png"
+  },
+  {
+    "name": "GSC201-249",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/GSC201-249.png"
+  },
+  {
+    "name": "GSCMyth",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mythicals.png"
   }
 ]
