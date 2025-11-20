@@ -3,6 +3,7 @@
     "name": "Gen 1 and Regionals",
     "chest_unopened_img": "images/items/Uncaught.png",
     "chest_opened_img": "images/items/Caught.png",
+    "hosted_item": "AllPokemonCaught",
     "children": [
       {
         "name": "National Pokedex Complete",
