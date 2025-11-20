@@ -1155,5 +1155,5 @@ LOCATION_MAPPING = {
 	[1079] = {{"@Gen 9 and Regionals/Victory/Catch!"}},
 	[1080] = {{"@Gen 9 and Regionals/Victory/Catch!"}},
 	[1081] = {{"@Gen 9 and Regionals/Victory/Catch!"}},
-	[1082] = {{"@Gen 1 and Regionals/National Pokedex Complete/WIN"}}
+	[1082] = {{"@Gen 1 and Regionals/National Pokedex Complete/WIN"}},
 }

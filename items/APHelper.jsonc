@@ -8,6 +8,6 @@
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "codes": "AllPokemonCaught"
+    "codes": "TotalPokemonCaught"
   }
 ]

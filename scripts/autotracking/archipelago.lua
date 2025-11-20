@@ -6,6 +6,7 @@
 -- if you run into issues when touching A LOT of items/locations here, see the comment about Tracker.AllowDeferredLogicUpdate in autotracking.lua
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/sectionID.lua")
 -- used for hint tracking to quickly map hint status to a value from the Highlight enum
 HINT_STATUS_MAPPING = {}
 if Highlight then
@@ -278,6 +279,38 @@ function onLocation(location_id, location_name)
 		end
 	end
 end
+
+ScriptHost:AddOnLocationSectionChangedHandler("manual", function(section)
+    local sectionID = section.FullID
+    if sectionID == "Victory/Victory/Victory" then
+        if section.AvailableChestCount == 0 then
+            local res = Archipelago:StatusUpdate(Archipelago.ClientStatus.GOAL)
+            if res then
+                print("Sent Victory")
+                local obj = Tracker:FindObjectForCode("event_cynthia")
+                obj.Active = true
+            else
+                print("Error sending Victory")
+            end
+        end
+    elseif (section.AvailableChestCount == 0) then  -- this only works for 1 chest per section
+        -- AP location cleared
+        local sectionID = section.FullID
+        local apID = sectionIDToAPID[sectionID]
+		local mons = Tracker:FindObjectForCode("TotalPokemonCaught")
+        if apID ~= nil then
+            local res = Archipelago:LocationChecks({apID})
+            if res then
+                print("Sent " .. tostring(apID) .. " for " .. tostring(sectionID))
+				mons.AcquiredCount = mons.AcquiredCount + mons.Increment
+            else
+                print("Error sending " .. tostring(apID) .. " for " .. tostring(sectionID))
+            end
+        else
+            print(tostring(sectionID) .. " is not an AP location")
+        end
+    end
+end)
 
 -- called when a locations is scouted
 function onScout(location_id, location_name, item_id, item_name, item_player)
