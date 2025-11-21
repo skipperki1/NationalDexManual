@@ -9,5 +9,45 @@
     "decrement": 1,
     "initial_quantity": 0,
     "codes": "TotalPokemonCaught"
+  },
+  {
+    "name": "Spinoffs Included",
+    "type": "toggle",
+    "codes": "Spinoffs"
+  },
+  {
+    "name": "Event Only Included",
+    "type": "toggle",
+    "codes": "Event"
+  },
+  {
+    "name": "Save Bonus Included",
+    "type": "toggle",
+    "codes": "Save"
+  },
+  {
+    "name": "Mythicals Included",
+    "type": "toggle",
+    "codes": "Mythical"
+  },
+  {
+    "name": "Legendaries Included",
+    "type": "toggle",
+    "codes": "Legendaries"
+  },
+  {
+    "name": "Starters Included",
+    "type": "toggle",
+    "codes": "Starters"
+  },
+  {
+    "name": "Regionals Included",
+    "type": "toggle",
+    "codes": "Regional"
+  },
+  {
+    "name": "Regional Evos Included",
+    "type": "toggle",
+    "codes": "RegionEvos"
   }
 ]

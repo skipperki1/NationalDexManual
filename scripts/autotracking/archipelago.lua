@@ -103,6 +103,29 @@ end
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
 	-- put any code here that slot_data should affect (toggling setting items for example)
+	for k, v in pairs(SETTINGS_MAPPING) do
+		obj = Tracker:FindObjectForCode(v)
+
+		local value = SLOT_DATA[k]
+		local tog = value == 1
+
+		if k == "Spinoffs" then
+			Tracker:FindObjectForCode("Spinoffs").CurrentStage = value
+		elseif k == "Event" then
+			Tracker:FindObjectForCode("Event").CurrentStage = value		
+		elseif k == "Save" then
+			Tracker:FindObjectForCode("Save").CurrentStage = value		
+		elseif k == "Mythical" then
+			Tracker:FindObjectForCode("Mythical").CurrentStage = value		
+		elseif k == "Legendaries" then
+			Tracker:FindObjectForCode("Legendaries").CurrentStage = value		
+		elseif k == "Starters" then
+			Tracker:FindObjectForCode("Starters").CurrentStage = value		
+		elseif k == "Regional" then
+			Tracker:FindObjectForCode("Regional").CurrentStage = value		
+		elseif k == "RegionEvos" then
+			Tracker:FindObjectForCode("RegionEvos").CurrentStage = value		
+		end
 end
 
 -- called right after an AP slot is connected

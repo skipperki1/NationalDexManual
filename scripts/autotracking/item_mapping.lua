@@ -9,7 +9,7 @@ SETTINGS_MAPPING = {
  ["exclude_legendaries"] = "Legendaries",
  ["include_starters"] = "Starters",
  ["include_regional_forms"] = "Regional",
- ["include_regional_forms_evos"] = "RegionEvo",
+ ["include_regional_forms_evos"] = "RegionEvos",
 }
 
 ITEM_MAPPING = {

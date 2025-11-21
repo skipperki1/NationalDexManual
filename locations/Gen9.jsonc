@@ -4,9 +4,8 @@
     "children": [
         {
         "name": "Sprigatito #906",
-        "access_rules": [
-          "0906Un"
-        ],
+        "access_rules": ["0906Un"],
+        "visibility_rules": ["$Starters"],
         "sections": [
           {
             "name": "Catch!"
@@ -22,9 +21,8 @@
       },
       {
         "name": "Floragato #907",
-        "access_rules": [
-          "0906Un"
-        ],
+        "access_rules": ["0906Un"],
+        "visibility_rules": ["$Starters"],
         "sections": [
           {
             "name": "Catch!"
@@ -40,9 +38,8 @@
       },
       {
         "name": "Meowscarada #908",
-        "access_rules": [
-          "0906Un"
-        ],
+        "access_rules": ["0906Un"],
+        "visibility_rules": ["$Starters"],
         "sections": [
           {
             "name": "Catch!"
@@ -58,9 +55,8 @@
       },
       {
         "name": "Fuecoco #909",
-        "access_rules": [
-          "0909Un"
-        ],
+        "access_rules": ["0909Un"],
+        "visibility_rules": ["$Starters"],
         "sections": [
           {
             "name": "Catch!"
@@ -76,9 +72,8 @@
       },
       {
         "name": "Crocalor #910",
-        "access_rules": [
-          "0909Un"
-        ],
+        "access_rules": ["0909Un"],
+        "visibility_rules": ["$Starters"],
         "sections": [
           {
             "name": "Catch!"
@@ -94,9 +89,8 @@
       },
       {
         "name": "Skeledirge #911",
-        "access_rules": [
-          "0909Un"
-        ],
+        "access_rules": ["0909Un"],
+        "visibility_rules": ["$Starters"],
         "sections": [
           {
             "name": "Catch!"
@@ -112,9 +106,8 @@
       },
       {
         "name": "Quaxly #912",
-        "access_rules": [
-          "0912Un"
-        ],
+        "access_rules": ["0912Un"],
+        "visibility_rules": ["$Starters"],
         "sections": [
           {
             "name": "Catch!"
@@ -130,9 +123,8 @@
       },
       {
         "name": "Quaxwell #913",
-        "access_rules": [
-          "0912Un"
-        ],
+        "access_rules": ["0912Un"],
+        "visibility_rules": ["$Starters"],
         "sections": [
           {
             "name": "Catch!"
@@ -148,9 +140,8 @@
       },
       {
         "name": "Quaquaval #914",
-        "access_rules": [
-          "0912Un"
-        ],
+        "access_rules": ["0912Un"],
+        "visibility_rules": ["$Starters"],
         "sections": [
           {
             "name": "Catch!"
@@ -166,9 +157,7 @@
       },
       {
         "name": "Lechonk #915",
-        "access_rules": [
-          "0915Un"
-        ],
+        "access_rules": ["0915Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -184,9 +173,7 @@
       },
       {
         "name": "Oinkologne #916",
-        "access_rules": [
-          "0915Un"
-        ],
+        "access_rules": ["0915Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -202,9 +189,7 @@
       },
       {
         "name": "Tarountula #917",
-        "access_rules": [
-          "0917Un"
-        ],
+        "access_rules": ["0917Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -220,9 +205,7 @@
       },
       {
         "name": "Spidops #918",
-        "access_rules": [
-          "0917Un"
-        ],
+        "access_rules": ["0917Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -238,9 +221,7 @@
       },
       {
         "name": "Nymble #919",
-        "access_rules": [
-          "0919Un"
-        ],
+        "access_rules": ["0919Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -256,9 +237,7 @@
       },
       {
         "name": "Lokix #920",
-        "access_rules": [
-          "0919Un"
-        ],
+        "access_rules": ["0919Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -274,9 +253,7 @@
       },
       {
         "name": "Pawmi #921",
-        "access_rules": [
-          "0921Un"
-        ],
+        "access_rules": ["0921Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -292,9 +269,7 @@
       },
       {
         "name": "Pawmo #922",
-        "access_rules": [
-          "0921Un"
-        ],
+        "access_rules": ["0921Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -310,9 +285,7 @@
       },
       {
         "name": "Pawmot #923",
-        "access_rules": [
-          "0921Un"
-        ],
+        "access_rules": ["0921Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -328,9 +301,7 @@
       },
       {
         "name": "Tandemaus #924",
-        "access_rules": [
-          "0924Un"
-        ],
+        "access_rules": ["0924Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -346,9 +317,7 @@
       },
       {
         "name": "Maushold #925",
-        "access_rules": [
-          "0924Un"
-        ],
+        "access_rules": ["0924Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -364,9 +333,7 @@
       },
       {
         "name": "Fidough #926",
-        "access_rules": [
-          "0926Un"
-        ],
+        "access_rules": ["0926Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -382,9 +349,7 @@
       },
       {
         "name": "Dachsbun #927",
-        "access_rules": [
-          "0926Un"
-        ],
+        "access_rules": ["0926Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -400,9 +365,7 @@
       },
       {
         "name": "Smoliv #928",
-        "access_rules": [
-          "0928Un"
-        ],
+        "access_rules": ["0928Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -418,9 +381,7 @@
       },
       {
         "name": "Dolliv #929",
-        "access_rules": [
-          "0928Un"
-        ],
+        "access_rules": ["0928Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -436,9 +397,7 @@
       },
       {
         "name": "Arboliva #930",
-        "access_rules": [
-          "0928Un"
-        ],
+        "access_rules": ["0928Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -454,9 +413,7 @@
       },
       {
         "name": "Squawkabilly #931",
-        "access_rules": [
-          "0931Un"
-        ],
+        "access_rules": ["0931Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -472,9 +429,7 @@
       },
       {
         "name": "Nacli #932",
-        "access_rules": [
-          "0932Un"
-        ],
+        "access_rules": ["0932Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -490,9 +445,7 @@
       },
       {
         "name": "Naclstack #933",
-        "access_rules": [
-          "0932Un"
-        ],
+        "access_rules": ["0932Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -508,9 +461,7 @@
       },
       {
         "name": "Garganacl #934",
-        "access_rules": [
-          "0932Un"
-        ],
+        "access_rules": ["0932Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -526,9 +477,7 @@
       },
       {
         "name": "Charcadet #935",
-        "access_rules": [
-          "0935Un"
-        ],
+        "access_rules": ["0935Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -544,9 +493,7 @@
       },
       {
         "name": "Armarouge #936",
-        "access_rules": [
-          "0935Un"
-        ],
+        "access_rules": ["0935Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -562,9 +509,7 @@
       },
       {
         "name": "Ceruledge #937",
-        "access_rules": [
-          "0935Un"
-        ],
+        "access_rules": ["0935Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -580,9 +525,7 @@
       },
       {
         "name": "Tadbulb #938",
-        "access_rules": [
-          "0938Un"
-        ],
+        "access_rules": ["0938Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -598,9 +541,7 @@
       },
       {
         "name": "Bellibolt #939",
-        "access_rules": [
-          "0938Un"
-        ],
+        "access_rules": ["0938Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -616,9 +557,7 @@
       },
       {
         "name": "Wattrel #940",
-        "access_rules": [
-          "0940Un"
-        ],
+        "access_rules": ["0940Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -634,9 +573,7 @@
       },
       {
         "name": "Kilowattrel #941",
-        "access_rules": [
-          "0940Un"
-        ],
+        "access_rules": ["0940Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -652,9 +589,7 @@
       },
       {
         "name": "Maschiff #942",
-        "access_rules": [
-          "0942Un"
-        ],
+        "access_rules": ["0942Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -670,9 +605,7 @@
       },
       {
         "name": "Mabosstiff #943",
-        "access_rules": [
-          "0942Un"
-        ],
+        "access_rules": ["0942Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -688,9 +621,7 @@
       },
       {
         "name": "Shroodle #944",
-        "access_rules": [
-          "0944Un"
-        ],
+        "access_rules": ["0944Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -706,9 +637,7 @@
       },
       {
         "name": "Grafaiai #945",
-        "access_rules": [
-          "0944Un"
-        ],
+        "access_rules": ["0944Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -724,9 +653,7 @@
       },
       {
         "name": "Bramblin #946",
-        "access_rules": [
-          "0946Un"
-        ],
+        "access_rules": ["0946Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -742,9 +669,7 @@
       },
       {
         "name": "Brambleghast #947",
-        "access_rules": [
-          "0946Un"
-        ],
+        "access_rules": ["0946Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -760,9 +685,7 @@
       },
       {
         "name": "Toedscool #948",
-        "access_rules": [
-          "0948Un"
-        ],
+        "access_rules": ["0948Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -778,9 +701,7 @@
       },
       {
         "name": "Toedscruel #949",
-        "access_rules": [
-          "0948Un"
-        ],
+        "access_rules": ["0948Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -796,9 +717,7 @@
       },
       {
         "name": "Klawf #950",
-        "access_rules": [
-          "0950Un"
-        ],
+        "access_rules": ["0950Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -814,9 +733,7 @@
       },
       {
         "name": "Capsakid #951",
-        "access_rules": [
-          "0951Un"
-        ],
+        "access_rules": ["0951Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -832,9 +749,7 @@
       },
       {
         "name": "Scovillain #952",
-        "access_rules": [
-          "0951Un"
-        ],
+        "access_rules": ["0951Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -850,9 +765,7 @@
       },
       {
         "name": "Rellor #953",
-        "access_rules": [
-          "0953Un"
-        ],
+        "access_rules": ["0953Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -868,9 +781,7 @@
       },
       {
         "name": "Rabsca #954",
-        "access_rules": [
-          "0953Un"
-        ],
+        "access_rules": ["0953Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -886,9 +797,7 @@
       },
       {
         "name": "Flittle #955",
-        "access_rules": [
-          "0955Un"
-        ],
+        "access_rules": ["0955Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -904,9 +813,7 @@
       },
       {
         "name": "Espathra #956",
-        "access_rules": [
-          "0955Un"
-        ],
+        "access_rules": ["0955Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -922,9 +829,7 @@
       },
       {
         "name": "Tinkatink #957",
-        "access_rules": [
-          "0957Un"
-        ],
+        "access_rules": ["0957Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -940,9 +845,7 @@
       },
       {
         "name": "Tinkatuff #958",
-        "access_rules": [
-          "0957Un"
-        ],
+        "access_rules": ["0957Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -958,9 +861,7 @@
       },
       {
         "name": "Tinkaton #959",
-        "access_rules": [
-          "0957Un"
-        ],
+        "access_rules": ["0957Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -976,9 +877,7 @@
       },
       {
         "name": "Wiglett #960",
-        "access_rules": [
-          "0960Un"
-        ],
+        "access_rules": ["0960Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -994,9 +893,7 @@
       },
       {
         "name": "Wugtrio #961",
-        "access_rules": [
-          "0960Un"
-        ],
+        "access_rules": ["0960Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1012,9 +909,7 @@
       },
       {
         "name": "Bombirdier #962",
-        "access_rules": [
-          "0962Un"
-        ],
+        "access_rules": ["0962Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1030,9 +925,7 @@
       },
       {
         "name": "Finizen #963",
-        "access_rules": [
-          "0963Un"
-        ],
+        "access_rules": ["0963Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1048,9 +941,7 @@
       },
       {
         "name": "Palafin #964",
-        "access_rules": [
-          "0963Un"
-        ],
+        "access_rules": ["0963Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1066,9 +957,7 @@
       },
       {
         "name": "Varoom #965",
-        "access_rules": [
-          "0965Un"
-        ],
+        "access_rules": ["0965Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1084,9 +973,7 @@
       },
       {
         "name": "Revavroom #966",
-        "access_rules": [
-          "0965Un"
-        ],
+        "access_rules": ["0965Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1102,9 +989,7 @@
       },
       {
         "name": "Cyclizar #967",
-        "access_rules": [
-          "0967Un"
-        ],
+        "access_rules": ["0967Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1120,9 +1005,7 @@
       },
       {
         "name": "Orthworm #968",
-        "access_rules": [
-          "0968Un"
-        ],
+        "access_rules": ["0968Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1138,9 +1021,7 @@
       },
       {
         "name": "Glimmet #969",
-        "access_rules": [
-          "0969Un"
-        ],
+        "access_rules": ["0969Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1156,9 +1037,7 @@
       },
       {
         "name": "Glimmora #970",
-        "access_rules": [
-          "0969Un"
-        ],
+        "access_rules": ["0969Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1174,9 +1053,7 @@
       },
       {
         "name": "Greavard #971",
-        "access_rules": [
-          "0971Un"
-        ],
+        "access_rules": ["0971Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1192,9 +1069,7 @@
       },
       {
         "name": "Houndstone #972",
-        "access_rules": [
-          "0971Un"
-        ],
+        "access_rules": ["0971Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1210,9 +1085,7 @@
       },
       {
         "name": "Flamigo #973",
-        "access_rules": [
-          "0973Un"
-        ],
+        "access_rules": ["0973Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1228,9 +1101,7 @@
       },
       {
         "name": "Cetoddle #974",
-        "access_rules": [
-          "0974Un"
-        ],
+        "access_rules": ["0974Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1246,9 +1117,7 @@
       },
       {
         "name": "Cetitan #975",
-        "access_rules": [
-          "0974Un"
-        ],
+        "access_rules": ["0974Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1264,9 +1133,7 @@
       },
       {
         "name": "Veluza #976",
-        "access_rules": [
-          "0976Un"
-        ],
+        "access_rules": ["0976Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1282,9 +1149,7 @@
       },
       {
         "name": "Dondozo #977",
-        "access_rules": [
-          "0977Un"
-        ],
+        "access_rules": ["0977Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1300,9 +1165,7 @@
       },
       {
         "name": "Tatsugiri #978",
-        "access_rules": [
-          "0978Un"
-        ],
+        "access_rules": ["0978Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1318,9 +1181,7 @@
       },
       {
         "name": "Annihilape #979",
-        "access_rules": [
-          "0056Un"
-        ],
+        "access_rules": ["0056Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1336,9 +1197,8 @@
       },
       {
         "name": "Clodsire #980",
-        "access_rules": [
-          "0194Un"
-        ],
+        "access_rules": ["0194Un"],
+        "visibility_rules": ["$RegionEvos"],
         "sections": [
           {
             "name": "Catch!"
@@ -1354,9 +1214,7 @@
       },
       {
         "name": "Farigiraf #981",
-        "access_rules": [
-          "0203Un"
-        ],
+        "access_rules": ["0203Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1372,9 +1230,7 @@
       },
       {
         "name": "Dudunsparce #982",
-        "access_rules": [
-          "0206Un"
-        ],
+        "access_rules": ["0206Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1390,9 +1246,7 @@
       },
       {
         "name": "Kingambit #983",
-        "access_rules": [
-          "0624Un"
-        ],
+        "access_rules": ["0624Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1408,9 +1262,7 @@
       },
       {
         "name": "Great Tusk #984",
-        "access_rules": [
-          "ScarParaUn"
-        ],
+        "access_rules": ["ScarParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1426,9 +1278,7 @@
       },
       {
         "name": "Scream Tail #985",
-        "access_rules": [
-          "ScarParaUn"
-        ],
+        "access_rules": ["ScarParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1444,9 +1294,7 @@
       },
       {
         "name": "Brute Bonnet #986",
-        "access_rules": [
-          "ScarParaUn"
-        ],
+        "access_rules": ["ScarParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1462,9 +1310,7 @@
       },
       {
         "name": "Flutter Mane #987",
-        "access_rules": [
-          "ScarParaUn"
-        ],
+        "access_rules": ["ScarParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1480,9 +1326,7 @@
       },
       {
         "name": "Slither Wing #988",
-        "access_rules": [
-          "ScarParaUn"
-        ],
+        "access_rules": ["ScarParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1498,9 +1342,7 @@
       },
       {
         "name": "Sandy Shocks #989",
-        "access_rules": [
-          "ScarParaUn"
-        ],
+        "access_rules": ["ScarParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1516,9 +1358,7 @@
       },
       {
         "name": "Iron Treads #990",
-        "access_rules": [
-          "VioParaUn"
-        ],
+        "access_rules": ["VioParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1534,9 +1374,7 @@
       },
       {
         "name": "Iron Bundle #991",
-        "access_rules": [
-          "VioParaUn"
-        ],
+        "access_rules": ["VioParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1552,9 +1390,7 @@
       },
       {
         "name": "Iron Hands #992",
-        "access_rules": [
-          "VioParaUn"
-        ],
+        "access_rules": ["VioParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1570,9 +1406,7 @@
       },
       {
         "name": "Iron Jugulis #993",
-        "access_rules": [
-          "VioParaUn"
-        ],
+        "access_rules": ["VioParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1588,9 +1422,7 @@
       },
       {
         "name": "Iron Moth #994",
-        "access_rules": [
-          "VioParaUn"
-        ],
+        "access_rules": ["VioParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1606,9 +1438,7 @@
       },
       {
         "name": "Iron Thorns #995",
-        "access_rules": [
-          "VioParaUn"
-        ],
+        "access_rules": ["VioParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1624,9 +1454,7 @@
       },
       {
         "name": "Frigibax #996",
-        "access_rules": [
-          "0996Un"
-        ],
+        "access_rules": ["0996Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1642,9 +1470,7 @@
       },
       {
         "name": "Arctibax #997",
-        "access_rules": [
-          "0996Un"
-        ],
+        "access_rules": ["0996Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1660,9 +1486,7 @@
       },
       {
         "name": "Baxcalibur #998",
-        "access_rules": [
-          "0996Un"
-        ],
+        "access_rules": ["0996Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1678,9 +1502,7 @@
       },
       {
         "name": "Gimmighoul #999",
-        "access_rules": [
-          "0999Un"
-        ],
+        "access_rules": ["0999Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1696,9 +1518,7 @@
       },
       {
         "name": "Gholdengo #1000",
-        "access_rules": [
-          "0999Un"
-        ],
+        "access_rules": ["0999Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1714,9 +1534,8 @@
       },
       {
         "name": "Wo-Chien #1001",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -1732,9 +1551,8 @@
       },
       {
         "name": "Chien-Pao #1002",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -1750,9 +1568,8 @@
       },
       {
         "name": "Ting-Lu #1003",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -1768,9 +1585,8 @@
       },
       {
         "name": "Chi-Yu #1004",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -1786,9 +1602,7 @@
       },
       {
         "name": "Roaring Moon #1005",
-        "access_rules": [
-          "ScarParaUn"
-        ],
+        "access_rules": ["ScarParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1804,9 +1618,7 @@
       },
       {
         "name": "Iron Valiant #1006",
-        "access_rules": [
-          "VioParaUn"
-        ],
+        "access_rules": ["VioParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -1822,9 +1634,8 @@
       },
       {
         "name": "Koraidon #1007",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -1840,9 +1651,8 @@
       },
       {
         "name": "Miraidon #1008",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -1858,9 +1668,8 @@
       },
       {
         "name": "Walking Wake #1009",
-        "access_rules": [
-          "ScarParaUn"
-        ],
+        "access_rules": ["ScarParaUn"],
+        "visibility_rules": ["$Event,$Spinoffs"],
         "sections": [
           {
             "name": "Catch!"
@@ -1876,9 +1685,8 @@
       },
       {
         "name": "Iron Leaves #1010",
-        "access_rules": [
-          "VioParaUn"
-        ],
+        "access_rules": ["VioParaUn"],
+        "visibility_rules": ["$Event,$Spinoffs"],
         "sections": [
           {
             "name": "Catch!"
@@ -1894,9 +1702,7 @@
       },
       {
         "name": "Dipplin #1011",
-        "access_rules": [
-          "0840Un"
-        ],
+        "access_rules": ["0840Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1912,9 +1718,7 @@
       },
       {
         "name": "Poltchageist #1012",
-        "access_rules": [
-          "1012Un"
-        ],
+        "access_rules": ["1012Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1930,9 +1734,7 @@
       },
       {
         "name": "Sinistcha #1013",
-        "access_rules": [
-          "1012Un"
-        ],
+        "access_rules": ["1012Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -1948,9 +1750,8 @@
       },
       {
         "name": "Okidogi #1014",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -1966,9 +1767,8 @@
       },
       {
         "name": "Munkidori #1015",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -1984,9 +1784,8 @@
       },
       {
         "name": "Fezandipiti #1016",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -2002,9 +1801,8 @@
       },
       {
         "name": "Ogerpon #1017",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -2020,9 +1818,7 @@
       },
       {
         "name": "Archaludon #1018",
-        "access_rules": [
-          "0884Un"
-        ],
+        "access_rules": ["0884Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -2038,9 +1834,7 @@
       },
       {
         "name": "Hydrapple #1019",
-        "access_rules": [
-          "0840Un"
-        ],
+        "access_rules": ["0840Un"],
         "sections": [
           {
             "name": "Catch!"
@@ -2056,9 +1850,7 @@
       },
       {
         "name": "Gouging Fire #1020",
-        "access_rules": [
-          "ScarParaUn"
-        ],
+        "access_rules": ["ScarParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -2074,9 +1866,7 @@
       },
       {
         "name": "Raging Bolt #1021",
-        "access_rules": [
-          "ScarParaUn"
-        ],
+        "access_rules": ["ScarParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -2092,9 +1882,7 @@
       },
       {
         "name": "Iron Boulder #1022",
-        "access_rules": [
-          "VioParaUn"
-        ],
+        "access_rules": ["VioParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -2110,9 +1898,7 @@
       },
       {
         "name": "Iron Crown #1023",
-        "access_rules": [
-          "VioParaUn"
-        ],
+        "access_rules": ["VioParaUn"],
         "sections": [
           {
             "name": "Catch!"
@@ -2128,9 +1914,8 @@
       },
       {
         "name": "Terapagos #1024",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Legendaries"],
         "sections": [
           {
             "name": "Catch!"
@@ -2146,9 +1931,8 @@
       },
       {
         "name": "Pecharunt #1025",
-        "access_rules": [
-          "PaldeaLegUn"
-        ],
+        "access_rules": ["PaldeaLegUn"],
+        "visibility_rules": ["$Mythical"],
         "sections": [
           {
             "name": "Catch!"
