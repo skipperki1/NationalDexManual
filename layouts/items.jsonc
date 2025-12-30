@@ -17,7 +17,15 @@
             "h_alignment": "left",
             "rows": [
               [
-                "TotalPokemonCaught"
+                "ThousandCaught",
+                "HundredCaught",
+                "TensCaught",
+                "OnesCaught",
+                "Slash",
+                "Thousand",
+                "Hundred",
+                "Tens",
+                "Ones"
               ]
             ]
           }

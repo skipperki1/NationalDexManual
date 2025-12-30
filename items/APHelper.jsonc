@@ -3,8 +3,8 @@
   {
     "name": "Total Pokemon Caught",
     "type": "consumable",
-    "img": "images/items/Uncaught.png",
     "max_quantity": 1082,
+    "img":"images/items/Caught.png",
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
@@ -49,5 +49,407 @@
     "name": "Regional Evos Included",
     "type": "toggle",
     "codes": "RegionEvos"
+  },
+  {
+    "name": "Slash",
+    "type": "Static",
+    "img": "images/items/Slash.png",
+    "codes": "Slash"
+  },
+  {
+    "name": "Thousand",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/0.png",
+        "codes": "Numbers,Thousand,Thousand0"
+      },
+      {
+        "img": "images/items/1.png",
+        "codes": "Numbers,Thousand,Thousand1"
+      },
+      {
+        "img": "images/items/2.png",
+        "codes": "Numbers,Thousand,Thousand2"
+      },
+      {
+        "img": "images/items/3.png",
+        "codes": "Numbers,Thousand,Thousand3"
+      },
+      {
+        "img": "images/items/4.png",
+        "codes": "Numbers,Thousand,Thousand4"
+      },
+      {
+        "img": "images/items/5.png",
+        "codes": "Numbers,Thousand,Thousand5"
+      },
+      {
+        "img": "images/items/6.png",
+        "codes": "Numbers,Thousand,Thousand6"
+      },
+      {
+        "img": "images/items/7.png",
+        "codes": "Numbers,Thousand,Thousand7"
+      },
+      {
+        "img": "images/items/8.png",
+        "codes": "Numbers,Thousand,Thousand8"
+      },
+      {
+        "img": "images/items/9.png",
+        "codes": "Numbers,Thousand,Thousand9"
+      },
+      {
+        "img": "images/items/Blank.png",
+        "codes": "Numbers,Thousand,ThousandNull"
+      }
+    ]
+  },
+  {
+    "name": "Hundred",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/0.png",
+        "codes": "Numbers,Hundred,Hundred0"
+      },
+      {
+        "img": "images/items/1.png",
+        "codes": "Numbers,Hundred,Hundred1"
+      },
+      {
+        "img": "images/items/2.png",
+        "codes": "Numbers,Hundred,Hundred2"
+      },
+      {
+        "img": "images/items/3.png",
+        "codes": "Numbers,Hundred,Hundred3"
+      },
+      {
+        "img": "images/items/4.png",
+        "codes": "Numbers,Hundred,Hundred4"
+      },
+      {
+        "img": "images/items/5.png",
+        "codes": "Numbers,Hundred,Hundred5"
+      },
+      {
+        "img": "images/items/6.png",
+        "codes": "Numbers,Hundred,Hundred6"
+      },
+      {
+        "img": "images/items/7.png",
+        "codes": "Numbers,Hundred,Hundred7"
+      },
+      {
+        "img": "images/items/8.png",
+        "codes": "Numbers,Hundred,Hundred8"
+      },
+      {
+        "img": "images/items/9.png",
+        "codes": "Numbers,Hundred,Hundred9"
+      },
+      {
+        "img": "images/items/Blank.png",
+        "codes": "Numbers,Hundred,HundredNull"
+      }
+    ]
+  },
+  {
+    "name": "Tens",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/0.png",
+        "codes": "Numbers,Tens,Tens0"
+      },
+      {
+        "img": "images/items/1.png",
+        "codes": "Numbers,Tens,Tens1"
+      },
+      {
+        "img": "images/items/2.png",
+        "codes": "Numbers,Tens,Tens2"
+      },
+      {
+        "img": "images/items/3.png",
+        "codes": "Numbers,Tens,Tens3"
+      },
+      {
+        "img": "images/items/4.png",
+        "codes": "Numbers,Tens,Tens4"
+      },
+      {
+        "img": "images/items/5.png",
+        "codes": "Numbers,Tens,Tens5"
+      },
+      {
+        "img": "images/items/6.png",
+        "codes": "Numbers,Tens,Tens6"
+      },
+      {
+        "img": "images/items/7.png",
+        "codes": "Numbers,Tens,Tens7"
+      },
+      {
+        "img": "images/items/8.png",
+        "codes": "Numbers,Tens,Tens8"
+      },
+      {
+        "img": "images/items/9.png",
+        "codes": "Numbers,Tens,Tens9"
+      },
+      {
+        "img": "images/items/Blank.png",
+        "codes": "Numbers,Tens,TensNull"
+      }
+    ]
+  },
+  {
+    "name": "Ones",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/0.png",
+        "codes": "Numbers,Ones,Ones0"
+      },
+      {
+        "img": "images/items/1.png",
+        "codes": "Numbers,Ones,Ones1"
+      },
+      {
+        "img": "images/items/2.png",
+        "codes": "Numbers,Ones,Ones2"
+      },
+      {
+        "img": "images/items/3.png",
+        "codes": "Numbers,Ones,Ones3"
+      },
+      {
+        "img": "images/items/4.png",
+        "codes": "Numbers,Ones,Ones4"
+      },
+      {
+        "img": "images/items/5.png",
+        "codes": "Numbers,Ones,Ones5"
+      },
+      {
+        "img": "images/items/6.png",
+        "codes": "Numbers,Ones,Ones6"
+      },
+      {
+        "img": "images/items/7.png",
+        "codes": "Numbers,Ones,Ones7"
+      },
+      {
+        "img": "images/items/8.png",
+        "codes": "Numbers,Ones,Ones8"
+      },
+      {
+        "img": "images/items/9.png",
+        "codes": "Numbers,Ones,Ones9"
+      },
+      {
+        "img": "images/items/Blank.png",
+        "codes": "Numbers,Ones,OnesNull"
+      }
+    ]
+  },
+  {
+    "name": "ThousandCaught",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/0.png",
+        "codes": "Numbers,ThousandCaught,ThousandCaught0"
+      },
+      {
+        "img": "images/items/1.png",
+        "codes": "Numbers,ThousandCaught,ThousandCaught1"
+      },
+      {
+        "img": "images/items/2.png",
+        "codes": "Numbers,ThousandCaught,ThousandCaught2"
+      },
+      {
+        "img": "images/items/3.png",
+        "codes": "Numbers,ThousandCaught,ThousandCaught3"
+      },
+      {
+        "img": "images/items/4.png",
+        "codes": "Numbers,ThousandCaught,ThousandCaught4"
+      },
+      {
+        "img": "images/items/5.png",
+        "codes": "Numbers,ThousandCaught,ThousandCaught5"
+      },
+      {
+        "img": "images/items/6.png",
+        "codes": "Numbers,ThousandCaught,ThousandCaught6"
+      },
+      {
+        "img": "images/items/7.png",
+        "codes": "Numbers,ThousandCaught,ThousandCaught7"
+      },
+      {
+        "img": "images/items/8.png",
+        "codes": "Numbers,ThousandCaught,ThousandCaught8"
+      },
+      {
+        "img": "images/items/9.png",
+        "codes": "Numbers,ThousandCaught,ThousandCaught9"
+      }
+    ]
+  },
+  {
+    "name": "HundredCaught",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/0.png",
+        "codes": "Numbers,HundredCaught,HundredCaught0"
+      },
+      {
+        "img": "images/items/1.png",
+        "codes": "Numbers,HundredCaught,HundredCaught1"
+      },
+      {
+        "img": "images/items/2.png",
+        "codes": "Numbers,HundredCaught,HundredCaught2"
+      },
+      {
+        "img": "images/items/3.png",
+        "codes": "Numbers,HundredCaught,HundredCaught3"
+      },
+      {
+        "img": "images/items/4.png",
+        "codes": "Numbers,HundredCaught,HundredCaught4"
+      },
+      {
+        "img": "images/items/5.png",
+        "codes": "Numbers,HundredCaught,HundredCaught5"
+      },
+      {
+        "img": "images/items/6.png",
+        "codes": "Numbers,HundredCaught,HundredCaught6"
+      },
+      {
+        "img": "images/items/7.png",
+        "codes": "Numbers,HundredCaught,HundredCaught7"
+      },
+      {
+        "img": "images/items/8.png",
+        "codes": "Numbers,HundredCaught,HundredCaught8"
+      },
+      {
+        "img": "images/items/9.png",
+        "codes": "Numbers,HundredCaught,HundredCaught9"
+      }
+    ]
+  },
+  {
+    "name": "TensCaught",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/0.png",
+        "codes": "Numbers,TensCaught,TensCaught0"
+      },
+      {
+        "img": "images/items/1.png",
+        "codes": "Numbers,TensCaught,TensCaught1"
+      },
+      {
+        "img": "images/items/2.png",
+        "codes": "Numbers,TensCaught,TensCaught2"
+      },
+      {
+        "img": "images/items/3.png",
+        "codes": "Numbers,TensCaught,TensCaught3"
+      },
+      {
+        "img": "images/items/4.png",
+        "codes": "Numbers,TensCaught,TensCaught4"
+      },
+      {
+        "img": "images/items/5.png",
+        "codes": "Numbers,TensCaught,TensCaught5"
+      },
+      {
+        "img": "images/items/6.png",
+        "codes": "Numbers,TensCaught,TensCaught6"
+      },
+      {
+        "img": "images/items/7.png",
+        "codes": "Numbers,TensCaught,TensCaught7"
+      },
+      {
+        "img": "images/items/8.png",
+        "codes": "Numbers,TensCaught,TensCaught8"
+      },
+      {
+        "img": "images/items/9.png",
+        "codes": "Numbers,TensCaught,TensCaught9"
+      }
+    ]
+  },
+  {
+    "name": "OnesCaught",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/0.png",
+        "codes": "Numbers,OnesCaught,OnesCaught0"
+      },
+      {
+        "img": "images/items/1.png",
+        "codes": "Numbers,OnesCaught,OnesCaught1"
+      },
+      {
+        "img": "images/items/2.png",
+        "codes": "Numbers,OnesCaught,OnesCaught2"
+      },
+      {
+        "img": "images/items/3.png",
+        "codes": "Numbers,OnesCaught,OnesCaught3"
+      },
+      {
+        "img": "images/items/4.png",
+        "codes": "Numbers,OnesCaught,OnesCaught4"
+      },
+      {
+        "img": "images/items/5.png",
+        "codes": "Numbers,OnesCaught,OnesCaught5"
+      },
+      {
+        "img": "images/items/6.png",
+        "codes": "Numbers,OnesCaught,OnesCaught6"
+      },
+      {
+        "img": "images/items/7.png",
+        "codes": "Numbers,OnesCaught,OnesCaught7"
+      },
+      {
+        "img": "images/items/8.png",
+        "codes": "Numbers,OnesCaught,OnesCaught8"
+      },
+      {
+        "img": "images/items/9.png",
+        "codes": "Numbers,OnesCaught,OnesCaught9"
+      }
+    ]
   }
 ]

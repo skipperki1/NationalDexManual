@@ -103,29 +103,51 @@ end
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
 	-- put any code here that slot_data should affect (toggling setting items for example)
+	SLOT_DATA = slot_data
 	for k, v in pairs(SETTINGS_MAPPING) do
 		obj = Tracker:FindObjectForCode(v)
 
 		local value = SLOT_DATA[k]
 		local tog = value == 1
-
 		if k == "Spinoffs" then
-			Tracker:FindObjectForCode("Spinoffs").CurrentStage = value
+			if value == 1 then
+			obj.Active = false
+			elseif value == 0 then
+			obj.Active = true
+			end
 		elseif k == "Event" then
-			Tracker:FindObjectForCode("Event").CurrentStage = value		
+			if value == 1 then
+			obj.Active = false
+			elseif value == 0 then
+			obj.Active = true		
+			end
 		elseif k == "Save" then
-			Tracker:FindObjectForCode("Save").CurrentStage = value		
+			if value == 1 then
+			obj.Active = false
+			elseif value == 0 then
+			obj.Active = true
+			end		
 		elseif k == "Mythical" then
-			Tracker:FindObjectForCode("Mythical").CurrentStage = value		
+			if value == 1 then
+			obj.Active = false
+			elseif value == 0 then
+			obj.Active = true	
+			end		
 		elseif k == "Legendaries" then
-			Tracker:FindObjectForCode("Legendaries").CurrentStage = value		
+			if value == 1 then
+			obj.Active = false
+			elseif value == 0 then
+			obj.Active = true
+			end			
 		elseif k == "Starters" then
-			Tracker:FindObjectForCode("Starters").CurrentStage = value		
+			obj.Active = value		
 		elseif k == "Regional" then
-			Tracker:FindObjectForCode("Regional").CurrentStage = value		
+			obj.Active = value		
 		elseif k == "RegionEvos" then
-			Tracker:FindObjectForCode("RegionEvos").CurrentStage = value		
+			obj.Active = value		
 		end
+	end
+	NeededCount()
 end
 
 -- called right after an AP slot is connected
@@ -326,6 +348,7 @@ ScriptHost:AddOnLocationSectionChangedHandler("manual", function(section)
             if res then
                 print("Sent " .. tostring(apID) .. " for " .. tostring(sectionID))
 				mons.AcquiredCount = mons.AcquiredCount + mons.Increment
+				updateCaughtCount()
             else
                 print("Error sending " .. tostring(apID) .. " for " .. tostring(sectionID))
             end
@@ -457,3 +480,140 @@ Archipelago:AddRetrievedHandler("retrieved handler", onDataStorageUpdate)
 Archipelago:AddSetReplyHandler("set reply handler", onDataStorageUpdate)
 -- Archipelago:AddScoutHandler("scout handler", onScout)
 -- Archipelago:AddBouncedHandler("bounce handler", onBounce)
+
+
+function updateCaughtCount()
+	local counts = Tracker:FindObjectForCode("TotalPokemonCaught").AcquiredCount
+	local ThouC = Tracker:FindObjectForCode("ThousandCaught")
+	local HundC = Tracker:FindObjectForCode("HundredCaught")
+	local TensC = Tracker:FindObjectForCode("TensCaught")
+	local OnesC = Tracker:FindObjectForCode("OnesCaught")
+	if counts >= 1000 then
+		ThouC.CurrentStage = 2
+	else
+		ThouC.CurrentStage = 1
+	end
+	if counts >= 1000 then
+		counts = counts - 1000
+	end
+	if counts >= 900 then
+			HundC.CurrentStage = 10
+		elseif counts >= 800 then
+			HundC.CurrentStage = 9
+		elseif counts >= 700 then
+			HundC.CurrentStage = 8
+		elseif counts >= 600 then
+			HundC.CurrentStage = 7
+		elseif counts >= 500 then
+			HundC.CurrentStage = 6
+		elseif counts >= 400 then
+			HundC.CurrentStage = 5
+		elseif counts >= 300 then
+			HundC.CurrentStage = 4
+		elseif counts >= 200 then
+			HundC.CurrentStage = 3
+		elseif counts >= 100 then
+			HundC.CurrentStage = 2
+		else
+			HundC.CurrentStage = 1
+	end
+	if counts > 100 then
+		counts = counts - 100
+	end
+	if counts > 100 then
+		counts = counts - 100
+	end
+	if counts > 100 then
+		counts = counts - 100
+	end
+	if counts > 100 then
+		counts = counts - 100
+	end
+	if counts > 100 then
+		counts = counts - 100
+	end
+	if counts > 100 then
+		counts = counts - 100
+	end
+	if counts > 100 then
+		counts = counts - 100
+	end
+	if counts > 100 then
+		counts = counts - 100
+	end
+	if counts >= 100 then
+		counts = counts - 100
+	end
+	if counts >= 90 then
+			TensC.CurrentStage = 10
+		elseif counts >= 80 then
+			TensC.CurrentStage = 9
+		elseif counts >= 70 then
+			TensC.CurrentStage = 8
+		elseif counts >= 60 then
+			TensC.CurrentStage = 7
+		elseif counts >= 50 then
+			TensC.CurrentStage = 6
+		elseif counts >= 40 then
+			TensC.CurrentStage = 5
+		elseif counts >= 30 then
+			TensC.CurrentStage = 4
+		elseif counts >= 20 then
+			TensC.CurrentStage = 3
+		elseif counts >= 10 then
+			TensC.CurrentStage = 2
+		else
+			TensC.CurrentStage = 1
+		end
+	if counts > 10 then
+		counts = counts - 10
+	end
+	if counts > 10 then
+		counts = counts - 10
+	end
+	if counts > 10 then
+		counts = counts - 10
+	end
+	if counts > 10 then
+		counts = counts - 10
+	end
+	if counts > 10 then
+		counts = counts - 10
+	end
+	if counts > 10 then
+		counts = counts - 10
+	end
+	if counts > 10 then
+		counts = counts - 10
+	end
+	if counts > 10 then
+		counts = counts - 10
+	end
+	if counts > 10 then
+		counts = counts - 10
+	end
+	if counts >= 10 then
+		counts = counts - 10
+	end
+		if counts >= 9 then
+			OnesC.CurrentStage = 10
+		elseif counts >= 8 then
+			OnesC.CurrentStage = 9
+		elseif counts >= 7 then
+			OnesC.CurrentStage = 8
+		elseif counts >= 6 then
+			OnesC.CurrentStage = 7
+		elseif counts >= 5 then
+			OnesC.CurrentStage = 6
+		elseif counts >= 4 then
+			OnesC.CurrentStage = 5
+		elseif counts >= 3 then
+			OnesC.CurrentStage = 4
+		elseif counts >= 2 then
+			OnesC.CurrentStage = 3
+		elseif counts >= 1 then
+			OnesC.CurrentStage = 2
+		else
+			OnesC.CurrentStage = 1
+		end
+	end
