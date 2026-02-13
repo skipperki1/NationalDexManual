@@ -59,5 +59,143 @@
     "location_size": 16,
     "location_border_thickness": 4,
     "img": "images/maps/Mythicals.png"
+  },
+  {
+    "name": "RSE1-50",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/RSE1-50.png"
+  },
+  {
+    "name": "RSE51-100",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/RSE51-100.png"
+  },
+  {
+    "name": "RSE101-150",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/RSE101-150.png"
+  },
+  {
+    "name": "RSE151-200",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/RSE151-200.png"
+  },
+  {
+    "name": "FRLG1-50",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/FRLG1-50.png"
+  },
+  {
+    "name": "FRLG51-100",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/FRLG51-100.png"
+  },
+  {
+    "name": "FRLG101-150",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/FRLG101-150.png"
+  },
+  {
+    "name": "FRLG161-244",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/FRLG161-244.png"
+  },
+  {
+    "name": "FRLG245-360",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/FRLG245-360.png"
+  },
+  {
+    "name": "DPP1-50",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/DPP1-50.png"
+  },
+  {
+    "name": "DPP51-100",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/DPP51-100.png"
+  },
+  {
+    "name": "DPP101-150",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/DPP101-150.png"
+  },
+  {
+    "name": "DPP152-201",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/DPP152-201.png"
+  },
+  {
+    "name": "DPP202-210",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/DPP202-210.png"
+  },
+  {
+    "name": "HGSS1-50",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/HGSS1-50.png"
+  },
+  {
+    "name": "HGSS51-100",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/HGSS51-100.png"
+  },
+  {
+    "name": "HGSS101-150",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/HGSS101-150.png"
+  },
+  {
+    "name": "HGSS151-200",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/HGSS151-200.png"
+  },
+  {
+    "name": "HGSS201-247",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/HGSS201-247.png"
+  },
+  {
+    "name": "HGSS248-297",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/HGSS248-297.png"
+  },
+  {
+    "name": "HGSS298-358",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/HGSS298-358.png"
+  },
+  {
+    "name": "HGSS359-440",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/HGSS359-440.png"
+  },
+  {
+    "name": "HGSS441-475",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/maps/HGSS411-475.png"
   }
 ]
